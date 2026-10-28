@@ -1,0 +1,15 @@
+# participant data: never committed
+data/raw/*
+data/restricted/*
+!data/raw/.gitkeep
+!data/restricted/.gitkeep
+*.xlsx
+exposure_grid_rows.csv
+recovery_*.csv
+captures/
+transcripts/
+key*
+# python
+__pycache__/
+*.pyc
+.venv/

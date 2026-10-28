@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this research package, please cite it as below."
+title: "Privacy by Request: Immigrant Settlement and the Limits of Individual Control in the Data Broker Economy (research package)"
+version: 0.2.0
+date-released: 2026-10-28
+authors:
+  - family-names: Chala
+    given-names: Endalkachew H.
+    orcid: https://orcid.org/0000-0001-6210-6706
+    affiliation: "Center for an Informed Public, University of Washington"
+repository-code: https://github.com/Endalk-Chala/privacy-by-request
+license: MIT
+keywords:
+  - data brokers
+  - people-search sites
+  - privacy
+  - immigrants
+  - contextual integrity
+  - mixed methods
+  - Minnesota
+abstract: >-
+  Protocol, instruments, codebook, synthetic data and analysis code for a mixed-methods study of
+  data-broker exposure among immigrant adults in the Twin Cities, Minnesota. The study measures
+  findability on six consumer people-search sites (six sites by seven fields, scored 0 to 2),
+  compares it with participants' pre-lookup expectations and awareness, and traces the
+  settlement-era disclosures through which exposure is produced.

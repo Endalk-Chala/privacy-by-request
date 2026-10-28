@@ -1,0 +1,51 @@
+id,A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,A11,A12,A13,A14,A15,A16,awareness_index
+S01,0,0,0,0,Posted it,0,1,0,0,1,3,2,Not sure,1,1,Told by an organization,0
+S02,0,1,0,1,Government or public records,1,0,1,0,1,3,2,Stays on the site,0,1,Told by an organization,2
+S03,0,1,0,0,Government or public records,1,0,1,0,0,2,3,Not sure,1,0,Unsolicited recruiter call,2
+S04,0,0,0,0,Don't know,0,0,0,0,1,1,3,Only that employer,1,1,Relative or friend found it,0
+S05,1,1,0,0,A company sold it,1,1,0,0,0,1,1,Not sure,1,0,Never learned,3
+S06,1,1,0,0,Don't know,0,1,1,0,1,3,2,Stays on the site,1,1,Other,2
+S07,0,1,0,0,Posted it,0,1,0,1,1,1,2,Not sure,1,1,Told by an organization,1
+S08,0,1,0,0,Don't know,0,1,1,0,1,1,4,Only that employer,0,0,Never learned,1
+S09,1,1,0,0,Government or public records,1,0,0,0,1,1,3,Not sure,0,0,Unsolicited recruiter call,3
+S10,1,0,0,0,Don't know,0,0,0,0,1,3,3,Stays on the site,1,0,Other,1
+S11,1,1,0,0,Don't know,0,1,0,0,1,4,1,Not sure,1,1,Unsolicited recruiter call,2
+S12,0,1,0,0,Posted it,0,1,0,0,0,2,3,Only that employer,1,1,Unsolicited recruiter call,1
+S13,1,1,0,1,A company sold it,1,1,0,0,0,2,1,Stays on the site,1,0,Relative or friend found it,3
+S14,1,1,0,1,Don't know,0,1,0,0,1,1,1,Not sure,0,1,Told by an organization,2
+S15,0,1,1,0,Don't know,0,0,0,0,1,3,2,Only that employer,0,1,Unsolicited recruiter call,2
+S16,1,0,0,0,A company sold it,1,0,0,0,1,1,3,Only that employer,1,0,Saw it in a search,2
+S17,1,1,0,0,A company sold it,1,0,0,0,0,3,4,Only that employer,0,1,Other,3
+S18,0,1,1,0,Don't know,0,0,0,0,1,2,1,Only that employer,1,0,Saw it in a search,2
+S19,1,1,0,0,A company sold it,1,0,0,0,0,1,3,Only that employer,0,0,Saw it in a search,3
+S20,1,0,0,0,Don't know,0,0,0,0,1,1,2,Not sure,0,1,Saw it in a search,1
+S21,0,0,0,0,A company sold it,1,1,0,0,0,2,2,Stays on the site,1,1,Other,1
+S22,0,1,1,0,Don't know,0,0,0,0,1,2,2,Not sure,1,1,Unsolicited recruiter call,2
+S23,1,1,0,0,Don't know,0,1,0,0,1,2,1,Only that employer,0,0,Other,2
+S24,1,1,1,0,Posted it,0,0,1,0,0,4,3,Only that employer,1,1,Other,3
+S25,0,1,0,0,Posted it,0,0,0,0,1,2,1,Stays on the site,0,1,Never learned,1
+S26,1,1,0,0,Don't know,0,1,0,0,1,3,2,Only that employer,1,0,Other,2
+S27,0,0,0,0,Posted it,0,0,0,0,0,1,4,Stays on the site,1,1,Other,0
+S28,0,0,1,0,A company sold it,1,1,0,0,1,3,1,Not sure,1,1,Unsolicited recruiter call,2
+S29,0,0,0,0,Don't know,0,1,0,0,0,1,1,Only that employer,1,0,Saw it in a search,0
+S30,0,1,1,0,Government or public records,1,1,0,0,1,3,3,Stays on the site,0,0,Relative or friend found it,3
+S31,0,0,0,0,A company sold it,1,1,1,0,1,3,2,Stays on the site,1,1,Told by an organization,1
+S32,0,0,0,0,Don't know,0,0,0,0,1,1,2,Only that employer,0,1,Saw it in a search,0
+S33,1,1,0,0,Posted it,0,0,0,0,0,2,3,Only that employer,0,1,Unsolicited recruiter call,2
+S34,1,1,1,0,Don't know,0,1,0,0,0,2,2,Not sure,1,1,Relative or friend found it,3
+S35,1,1,1,0,Government or public records,1,0,0,0,0,3,1,Not sure,1,0,Unsolicited recruiter call,4
+S36,0,1,0,0,Posted it,0,0,0,0,0,2,2,Stays on the site,1,1,Told by an organization,1
+S37,0,0,0,0,Posted it,0,0,1,0,1,1,2,Stays on the site,1,1,Relative or friend found it,0
+S38,0,1,0,0,Posted it,0,0,0,1,0,3,1,Not sure,0,0,Other,1
+S39,0,0,0,0,Posted it,0,1,0,0,1,1,3,Only that employer,1,1,Other,0
+S40,0,1,0,0,A company sold it,1,1,0,0,1,2,3,Not sure,0,1,Relative or friend found it,2
+S41,0,1,0,0,Don't know,0,0,0,0,0,1,2,Not sure,0,0,Told by an organization,1
+S42,1,1,1,0,A company sold it,1,1,1,0,1,2,4,Only that employer,1,0,Told by an organization,4
+S43,1,0,0,0,Don't know,0,1,0,0,0,1,2,Not sure,1,1,Unsolicited recruiter call,1
+S44,0,1,0,0,Posted it,0,0,0,0,0,3,1,Stays on the site,0,0,Unsolicited recruiter call,1
+S45,1,1,0,0,Government or public records,1,1,0,0,1,1,1,Only that employer,1,0,Never learned,3
+S46,1,1,0,0,A company sold it,1,0,0,0,0,1,1,Only that employer,0,0,Saw it in a search,3
+S47,0,1,0,0,Posted it,0,1,0,0,1,3,1,Not sure,0,1,Saw it in a search,1
+S48,0,1,0,0,Government or public records,1,0,0,0,0,1,2,Only that employer,0,0,Never learned,2
+S49,1,1,0,0,A company sold it,1,1,0,0,1,1,3,Only that employer,0,1,Saw it in a search,3
+S50,0,0,0,0,Don't know,0,0,0,0,1,1,2,Not sure,0,1,Other,0

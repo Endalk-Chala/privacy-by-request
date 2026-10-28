@@ -1,0 +1,36 @@
+variable,sheet,type,allowed values / range,source in session,release tier,definition
+id,all,text,P01..Pnn,Assigned at consent,Restricted,The only cross-sheet link. The ID-to-name key is stored separately and encrypted.
+tenure_years,Participants,number,"0.5-40, one decimal",Intake,Never,Years since arrival in the U.S. Collapsed to tenure_band before any release.
+tenure_band,Participants,calc,Under 3 years; 3 to 10 years; Over 10 years,Formula,Restricted,Derived from tenure_years.
+occupation_band,Participants,list,Care & service; Warehouse & food; Small business; Professional; Other,Intake,Restricted,"Current main occupation, four bands plus Other."
+region,Participants,list,East Africa; Latin America; Southeast Asia; Other,Intake,Restricted (collapsed),Region of origin. Country is never recorded.
+education_band,Participants,list,Primary or less; Secondary; Post-secondary; Graduate,Intake,Restricted,"Highest level completed, anywhere."
+income_band,Participants,list,Band 1-4; Declined,Intake,Restricted,Household income band shown on a card; define bands in the protocol. Never an amount.
+own_record,Participants,0/1,0; 1,Timeline,Restricted,1 if a lease or utility account is in the participant's own name.
+consent_restricted_share,Participants,0/1,0; 1,Consent form,Never,Participant agreed that de-identified scores may go to the restricted tier.
+consent_quotes,Participants,0/1,0; 1,Consent form,Never,Participant agreed to approve quotations before publication.
+exposure_score,Participants,calc,0-84,Formula from Exposure_Grid,Restricted,"Sum of 42 cell scores (6 sites x 7 fields, each 0/1/2)."
+address_sites,Participants,calc,0-6,Formula,Restricted,Number of sites with an accurate current address (score 2).
+relatives_sites,Participants,calc,0-6,Formula,Restricted,Number of sites with accurate relatives (score 2).
+awareness_index,Awareness,calc,0-4,Formula,Restricted,A1 + A2 + A3 + transaction model (A6).
+A5 / A6 transaction model,Awareness,list/calc,Posted it; A company sold it; Government or public records; Don't know,Instrument,Restricted,A6 = 1 if A5 is 'A company sold it' or 'Government or public records'.
+predicted_findability,Awareness A11,1-4,1 very unlikely; 2 unlikely; 3 likely; 4 very likely,"Instrument, before lookup",Restricted,Belief that their current address is findable by searching their name.
+A13 believed resume stays,Awareness,list,Only that employer; Stays on the site; Not sure,Instrument,Restricted,Temporality model of a job-site application.
+A16 how first learned,Awareness,list,Unsolicited recruiter call; Relative or friend found it; Saw it in a search; Told by an organization; Never learned; Other,Instrument,Restricted,"The discovery event, if any."
+hours_per_day,Platform_Use,number,0-16,Self-report,Restricted,Estimated daily hours across platforms.
+off_facebook_activity_count,Platform_Use,number,0-999,Consented walkthrough,Restricted,"Number of third-party apps/sites listed in the participant's Off-Facebook Activity page, if they chose to open it."
+resume_public,Job_Sites,0/1,0; 1,Checked in account with participant,Restricted,Resume visibility set to public/searchable on at least one job site.
+believed_one_job_only,Job_Sites,0/1,0; 1,Interview,Restricted,Participant believed posting the resume sent it to one employer only.
+event_type,Settlement_Timeline,list,"16 values, see sheet validation",Timeline exercise,Never (aggregate only),Type of disclosure event in the first two years.
+named_downstream_holder,Settlement_Timeline,Yes/No,Yes; No,Timeline exercise,Never (aggregate only),"Participant named, unprompted, any holder of the data beyond the first party."
+known_recipient_ratio,Participants,calc,0-1,Formula,Restricted,named_downstream_holder = Yes / all events.
+score,Exposure_Grid,0/1/2,0 nothing; 1 partial or stale; 2 accurate and current,Lookup,Never,Judged with the participant. Site content is never copied.
+reaction,Lookup_Reactions,list,Surprise; Fear; Resignation; Anger; Indifference; Already knew,Lookup,Restricted (counts),Dominant first reaction to each lookup element.
+distress_flag,Lookup_Reactions,0/1,0; 1,Lookup,Never,1 if the stop protocol was considered or invoked.
+imagined_searcher_records,Interview_Codes,list,US government; Home government; Employer; Landlord; Stalker/personal; Nobody,Interview,Restricted,First-named searcher for records-channel data.
+imagined_audience_platforms,Interview_Codes,list,Family and community; Friends; Everyone; Employers; Government; Nobody in particular,Interview,Restricted,Who the participant pictures seeing their platform activity.
+imagined_audience_resume,Interview_Codes,list,Employers only; Staffing agencies; Anyone; Government; Not sure,Interview,Restricted,Who the participant pictures seeing their resume.
+unit_of_harm,Interview_Codes,list,Individual; Household; Community,Interview,Restricted,Level at which the participant describes the harm of exposure.
+vocabulary_gloss,Interview_Codes,list,Secret; Shame; Safety; Rights; Exposed / uncovered; Other,Interview,Restricted,Nearest English gloss of the participant's own-language term.
+response_repertoire,Interview_Codes,codes,Nothing; Ask someone; Pay; Change behavior; Go offline; Rely on community/faith; Legal action,Interview,Restricted,Semicolon-separated; all that apply.
+position,Participants,calc,Settled and unknowing; Settled and informed; Recent and on the record; Recent and off the record,Formula,Restricted,Tenure >= 3 and awareness >= 3: Settled and informed; tenure >= 3 else: Settled and unknowing; tenure < 3 and own_record = 1: Recent and on the record; else Recent and off the record.

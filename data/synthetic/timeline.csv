@@ -1,0 +1,395 @@
+id,event_no,month_after_arrival,event_type,gave_name,gave_address,gave_dob,gave_ssn_itin,named_downstream_holder,named_recipient_type,confidence,intermediary_type
+S01,1,13,Bank account,1,1,1,1,No,,1,attorney
+S01,2,22,Resettlement agency,1,0,0,0,No,,3,resettlement agency
+S01,3,20,Religious community,1,1,1,0,No,,2,relative
+S01,4,0,Religious community,1,1,1,0,No,,2,employer
+S02,1,4,Immigration attorney,1,1,1,1,Yes,government,2,none
+S02,2,20,Utility account,1,1,0,1,No,,3,resettlement agency
+S02,3,14,Government office,1,1,1,0,No,,3,employer
+S02,4,16,Job / payroll,1,1,1,0,Yes,credit bureau,3,attorney
+S02,5,1,Phone plan,1,1,0,1,No,,3,none
+S02,6,20,Resettlement agency,1,1,0,0,No,,1,attorney
+S02,7,16,Remittance,1,1,1,0,No,,1,resettlement agency
+S02,8,13,School enrollment,1,1,1,1,No,,1,caseworker
+S03,1,19,Government office,1,1,0,1,No,,2,caseworker
+S03,2,13,Remittance,1,0,0,0,No,,3,attorney
+S03,3,11,School enrollment,1,1,0,0,No,,2,attorney
+S03,4,24,Government office,1,1,1,0,Yes,data broker or website,3,none
+S03,5,1,Government office,1,1,1,0,Yes,government,1,relative
+S03,6,20,Car purchase / insurance,1,1,1,1,No,,2,resettlement agency
+S03,7,13,Job-site resume,1,1,0,1,Yes,government,3,attorney
+S03,8,4,Job-site resume,1,1,1,0,No,,2,caseworker
+S03,9,20,Government office,1,1,0,0,Yes,other,3,caseworker
+S04,1,12,Religious community,1,1,0,1,No,,3,attorney
+S04,2,11,Other,1,1,0,0,No,,3,relative
+S04,3,17,Lease / housing,1,1,1,1,Yes,other,3,attorney
+S04,4,2,Lease / housing,1,1,1,1,No,,3,relative
+S04,5,10,Driver's license,1,1,0,0,Yes,employer,2,employer
+S04,6,11,Religious community,1,1,1,0,No,,1,caseworker
+S04,7,11,Resettlement agency,1,1,0,1,No,,2,caseworker
+S04,8,7,School enrollment,1,1,1,0,No,,2,attorney
+S05,1,24,School enrollment,1,1,1,1,No,,3,caseworker
+S05,2,6,Phone plan,1,1,1,1,No,,2,relative
+S05,3,21,Resettlement agency,1,1,1,0,Yes,other,3,attorney
+S05,4,8,Driver's license,1,0,1,0,Yes,landlord,1,resettlement agency
+S05,5,10,Government office,1,1,1,0,Yes,data broker or website,1,attorney
+S06,1,22,Driver's license,1,0,0,1,No,,3,employer
+S06,2,1,Utility account,1,1,1,0,No,,1,caseworker
+S06,3,5,Car purchase / insurance,1,1,1,1,Yes,credit bureau,2,attorney
+S06,4,0,Other,1,1,1,0,No,,1,resettlement agency
+S06,5,10,Immigration attorney,1,1,1,0,Yes,government,1,caseworker
+S06,6,0,School enrollment,1,1,1,0,No,,2,attorney
+S06,7,5,Immigration attorney,1,1,1,0,Yes,data broker or website,1,employer
+S07,1,14,Phone plan,1,1,1,0,No,,3,resettlement agency
+S07,2,4,Other,1,1,1,1,No,,1,relative
+S07,3,1,School enrollment,1,1,1,0,Yes,government,3,caseworker
+S07,4,15,Driver's license,1,1,0,0,Yes,credit bureau,2,relative
+S08,1,15,Remittance,1,1,1,0,No,,2,relative
+S08,2,20,Lease / housing,1,1,0,1,No,,3,attorney
+S08,3,16,Job / payroll,1,1,1,0,No,,3,caseworker
+S08,4,14,Clinic / hospital,1,1,1,0,No,,3,none
+S09,1,4,Other,1,1,1,1,Yes,data broker or website,1,resettlement agency
+S09,2,12,Religious community,1,1,1,0,No,,1,relative
+S09,3,2,Government office,1,1,0,0,Yes,employer,3,caseworker
+S09,4,19,School enrollment,1,1,1,1,No,,1,none
+S09,5,22,Lease / housing,1,1,0,0,Yes,credit bureau,3,attorney
+S09,6,3,Government office,1,1,1,1,Yes,landlord,2,relative
+S10,1,0,Car purchase / insurance,1,1,1,0,No,,2,resettlement agency
+S10,2,6,Job / payroll,1,1,1,0,No,,1,relative
+S10,3,19,Job-site resume,1,1,1,0,Yes,government,2,relative
+S10,4,0,Government office,1,1,1,1,Yes,credit bureau,2,attorney
+S10,5,3,Immigration attorney,1,1,1,0,Yes,employer,2,employer
+S10,6,11,Job / payroll,1,1,1,0,Yes,government,3,resettlement agency
+S10,7,21,Driver's license,1,1,0,1,Yes,employer,1,resettlement agency
+S10,8,3,Other,1,0,1,0,No,,1,caseworker
+S10,9,11,Clinic / hospital,1,0,1,1,No,,3,caseworker
+S10,10,13,School enrollment,1,1,1,1,No,,1,resettlement agency
+S11,1,14,Lease / housing,1,1,1,0,No,,3,employer
+S11,2,10,Utility account,1,1,1,0,Yes,other,2,none
+S11,3,2,Remittance,1,1,1,1,No,,3,employer
+S11,4,19,Resettlement agency,1,1,1,1,Yes,credit bureau,1,resettlement agency
+S11,5,2,Clinic / hospital,1,0,0,1,Yes,landlord,3,attorney
+S11,6,14,Job-site resume,1,0,1,1,Yes,data broker or website,2,caseworker
+S11,7,1,Resettlement agency,1,1,1,0,Yes,landlord,1,employer
+S11,8,2,Job-site resume,1,1,1,0,No,,2,attorney
+S11,9,9,Driver's license,1,1,1,1,No,,1,caseworker
+S11,10,4,Resettlement agency,1,1,1,0,No,,2,none
+S11,11,12,Bank account,1,1,1,1,Yes,government,2,employer
+S12,1,22,Driver's license,1,0,1,1,No,,2,none
+S12,2,17,Remittance,1,1,0,1,No,,3,caseworker
+S12,3,16,Bank account,1,1,1,0,Yes,landlord,1,none
+S12,4,18,Car purchase / insurance,1,1,0,0,No,,2,none
+S12,5,6,Government office,1,1,1,0,No,,2,resettlement agency
+S12,6,24,Phone plan,1,1,1,0,No,,1,attorney
+S12,7,21,Utility account,1,1,1,0,No,,2,none
+S12,8,13,School enrollment,1,1,1,0,Yes,employer,3,none
+S13,1,8,School enrollment,1,1,1,0,No,,3,none
+S13,2,8,Driver's license,1,1,1,0,Yes,landlord,2,resettlement agency
+S13,3,0,Lease / housing,1,1,0,0,No,,1,attorney
+S13,4,0,Government office,1,1,1,1,No,,1,resettlement agency
+S13,5,19,Utility account,1,1,1,1,No,,2,resettlement agency
+S13,6,9,Utility account,1,1,1,0,No,,3,attorney
+S14,1,0,Religious community,1,1,1,1,No,,2,employer
+S14,2,12,Government office,1,0,1,1,Yes,employer,2,resettlement agency
+S14,3,10,Driver's license,1,1,1,0,No,,1,relative
+S14,4,21,School enrollment,1,0,0,1,Yes,credit bureau,3,resettlement agency
+S14,5,16,Job-site resume,1,1,1,0,No,,3,relative
+S15,1,4,Remittance,1,1,0,0,No,,2,none
+S15,2,23,Phone plan,1,1,1,0,No,,1,resettlement agency
+S15,3,23,Remittance,1,1,1,0,No,,2,none
+S15,4,8,Bank account,1,1,1,1,Yes,data broker or website,3,caseworker
+S15,5,17,Utility account,1,1,0,1,No,,1,caseworker
+S15,6,12,School enrollment,1,1,1,0,No,,1,relative
+S15,7,5,Job / payroll,1,1,0,1,Yes,other,1,none
+S15,8,4,School enrollment,1,1,1,1,No,,3,relative
+S15,9,0,Religious community,1,1,1,1,No,,3,resettlement agency
+S16,1,19,Resettlement agency,1,1,1,1,Yes,data broker or website,2,employer
+S16,2,1,Religious community,1,1,1,1,No,,2,employer
+S16,3,4,Clinic / hospital,1,1,1,0,No,,1,resettlement agency
+S16,4,18,Government office,1,0,1,0,Yes,data broker or website,3,none
+S16,5,5,Other,1,1,0,1,No,,2,relative
+S16,6,20,Job / payroll,1,1,1,0,Yes,credit bureau,3,attorney
+S16,7,0,Other,1,1,1,0,Yes,employer,2,attorney
+S16,8,24,Lease / housing,1,1,1,0,Yes,employer,1,none
+S16,9,4,Immigration attorney,1,0,1,1,No,,2,employer
+S16,10,12,Driver's license,1,1,0,1,Yes,data broker or website,1,none
+S16,11,8,Resettlement agency,1,1,0,1,No,,1,attorney
+S17,1,24,Religious community,1,0,1,0,No,,3,employer
+S17,2,9,Government office,1,1,0,1,Yes,credit bureau,1,caseworker
+S17,3,24,Immigration attorney,1,1,1,0,Yes,employer,3,attorney
+S17,4,20,Phone plan,1,1,0,0,No,,1,none
+S17,5,22,Utility account,1,0,0,0,Yes,data broker or website,2,caseworker
+S17,6,3,Job-site resume,1,0,0,1,Yes,other,1,employer
+S17,7,1,Driver's license,1,1,1,0,No,,3,none
+S17,8,2,Job / payroll,1,1,1,0,No,,3,none
+S17,9,10,Religious community,1,1,1,1,No,,1,resettlement agency
+S18,1,9,Phone plan,1,1,0,1,No,,3,resettlement agency
+S18,2,7,Phone plan,1,1,1,1,No,,2,employer
+S18,3,7,Government office,1,1,1,0,Yes,other,2,caseworker
+S18,4,3,Job-site resume,1,1,0,0,No,,2,resettlement agency
+S18,5,15,Resettlement agency,1,1,1,0,No,,2,caseworker
+S18,6,4,Phone plan,1,0,0,1,Yes,landlord,2,employer
+S18,7,10,Government office,1,1,1,1,Yes,data broker or website,3,resettlement agency
+S18,8,15,Resettlement agency,1,1,1,0,No,,3,employer
+S18,9,3,Job-site resume,1,1,1,0,No,,3,caseworker
+S18,10,13,Government office,1,1,0,1,Yes,data broker or website,3,employer
+S19,1,5,Other,1,1,1,0,Yes,government,2,relative
+S19,2,13,Utility account,1,1,1,1,No,,1,none
+S19,3,6,Religious community,1,1,1,0,No,,1,employer
+S19,4,22,Bank account,1,1,1,0,No,,2,none
+S19,5,12,Government office,1,1,0,0,No,,1,caseworker
+S19,6,23,Driver's license,1,1,1,1,Yes,government,1,attorney
+S19,7,19,Job-site resume,1,0,1,1,Yes,other,3,none
+S19,8,2,Job / payroll,1,1,0,1,No,,2,caseworker
+S19,9,10,Religious community,1,1,0,0,No,,1,none
+S19,10,20,Lease / housing,1,1,1,0,No,,2,caseworker
+S19,11,5,Government office,1,1,1,1,Yes,landlord,3,relative
+S20,1,16,Lease / housing,1,1,1,0,No,,1,attorney
+S20,2,21,Remittance,1,1,1,1,No,,3,employer
+S20,3,15,Job / payroll,1,1,1,1,No,,3,resettlement agency
+S20,4,0,Remittance,1,1,1,0,Yes,employer,2,relative
+S20,5,8,Driver's license,1,1,1,0,No,,2,attorney
+S20,6,3,Lease / housing,1,1,1,1,No,,1,resettlement agency
+S20,7,21,Phone plan,1,1,1,0,No,,2,relative
+S20,8,20,Phone plan,1,1,1,0,No,,2,attorney
+S20,9,0,Driver's license,1,1,1,0,No,,3,employer
+S20,10,18,Car purchase / insurance,1,1,1,0,No,,3,employer
+S21,1,9,Remittance,1,1,1,0,Yes,government,3,relative
+S21,2,17,Remittance,1,1,1,1,Yes,other,3,attorney
+S21,3,11,Religious community,1,1,1,0,No,,2,none
+S21,4,24,Resettlement agency,1,1,1,0,No,,3,attorney
+S21,5,13,Phone plan,1,1,1,0,No,,2,attorney
+S21,6,20,Job / payroll,1,1,0,0,Yes,government,2,caseworker
+S21,7,13,Other,1,1,1,1,Yes,government,3,relative
+S21,8,5,Job-site resume,1,1,1,0,No,,3,resettlement agency
+S21,9,19,Job-site resume,1,1,0,0,No,,2,relative
+S21,10,17,Phone plan,1,1,1,0,No,,2,none
+S22,1,14,Utility account,1,0,0,0,No,,2,caseworker
+S22,2,24,Utility account,1,1,1,0,No,,3,none
+S22,3,21,Job-site resume,1,1,1,1,Yes,landlord,1,none
+S22,4,0,Resettlement agency,1,1,0,0,No,,2,caseworker
+S22,5,4,School enrollment,1,1,0,0,No,,2,attorney
+S22,6,5,Government office,1,0,1,1,Yes,data broker or website,1,caseworker
+S22,7,18,Phone plan,1,1,0,1,No,,2,relative
+S22,8,4,Phone plan,1,1,1,0,No,,3,employer
+S22,9,3,Government office,1,1,0,0,Yes,government,1,caseworker
+S22,10,10,Bank account,1,1,1,0,Yes,data broker or website,1,none
+S22,11,5,Utility account,1,1,1,0,No,,3,resettlement agency
+S23,1,11,Phone plan,1,1,1,0,No,,2,caseworker
+S23,2,2,Driver's license,1,1,1,1,Yes,data broker or website,3,attorney
+S23,3,24,Job-site resume,1,1,1,0,No,,2,attorney
+S23,4,15,Clinic / hospital,1,1,0,0,No,,1,relative
+S24,1,20,Car purchase / insurance,1,0,0,0,Yes,landlord,2,resettlement agency
+S24,2,6,Utility account,1,1,1,0,No,,3,employer
+S24,3,18,Religious community,1,1,1,0,No,,1,employer
+S24,4,2,Lease / housing,1,1,1,1,No,,3,attorney
+S24,5,9,Driver's license,1,1,0,1,Yes,other,3,none
+S24,6,7,Lease / housing,1,1,0,1,No,,1,employer
+S24,7,1,Job-site resume,1,1,1,1,No,,2,relative
+S24,8,9,Lease / housing,1,1,1,1,No,,2,relative
+S25,1,3,Job-site resume,1,1,0,0,No,,2,attorney
+S25,2,13,Car purchase / insurance,1,1,0,0,No,,2,attorney
+S25,3,8,Bank account,1,1,1,1,No,,3,none
+S25,4,4,Other,1,1,1,0,No,,2,attorney
+S25,5,1,Utility account,1,1,1,1,No,,1,caseworker
+S25,6,7,Car purchase / insurance,1,1,1,0,Yes,data broker or website,1,resettlement agency
+S25,7,18,Resettlement agency,1,1,0,1,No,,2,attorney
+S25,8,10,Remittance,1,1,1,0,No,,1,none
+S25,9,23,Remittance,1,1,1,1,No,,3,attorney
+S25,10,10,Lease / housing,1,0,1,0,No,,1,relative
+S26,1,10,Other,1,1,0,0,No,,3,attorney
+S26,2,10,Driver's license,1,0,1,0,No,,3,employer
+S26,3,5,Remittance,1,1,1,0,No,,1,none
+S26,4,2,Government office,1,1,0,1,Yes,credit bureau,2,resettlement agency
+S26,5,4,Car purchase / insurance,1,1,1,1,No,,2,caseworker
+S26,6,8,Immigration attorney,1,1,1,0,Yes,other,3,attorney
+S26,7,12,Government office,1,1,1,0,No,,1,none
+S26,8,8,Car purchase / insurance,1,1,1,0,Yes,employer,2,attorney
+S27,1,1,School enrollment,1,1,0,1,No,,1,employer
+S27,2,18,Clinic / hospital,1,1,1,1,Yes,government,2,none
+S27,3,9,Government office,1,1,0,0,Yes,employer,1,resettlement agency
+S27,4,12,Phone plan,1,1,1,0,No,,1,none
+S27,5,23,School enrollment,1,1,1,1,No,,1,none
+S27,6,9,Driver's license,1,1,1,0,Yes,employer,3,caseworker
+S28,1,12,Clinic / hospital,1,1,1,1,Yes,government,3,attorney
+S28,2,8,Bank account,1,0,0,0,No,,1,attorney
+S28,3,24,Job / payroll,1,1,0,0,Yes,credit bureau,3,attorney
+S28,4,15,Utility account,1,1,1,1,No,,1,employer
+S28,5,5,Utility account,1,1,1,1,No,,1,caseworker
+S28,6,5,Clinic / hospital,1,0,0,0,No,,3,employer
+S28,7,20,Job-site resume,1,1,1,1,No,,3,resettlement agency
+S28,8,15,School enrollment,1,1,1,1,Yes,data broker or website,1,employer
+S28,9,19,Phone plan,1,1,1,1,No,,1,employer
+S28,10,4,Job / payroll,1,1,1,1,No,,1,resettlement agency
+S29,1,22,School enrollment,1,1,0,1,No,,3,relative
+S29,2,23,Job / payroll,1,0,1,1,No,,3,caseworker
+S29,3,10,Government office,1,0,1,1,No,,2,caseworker
+S29,4,3,Driver's license,1,1,1,1,Yes,other,2,attorney
+S29,5,8,Bank account,1,1,1,0,Yes,data broker or website,2,resettlement agency
+S29,6,20,Government office,1,1,0,0,Yes,credit bureau,3,attorney
+S29,7,7,Job / payroll,1,1,1,0,No,,2,none
+S29,8,16,Phone plan,1,1,1,0,Yes,landlord,3,none
+S29,9,6,Resettlement agency,1,1,0,0,No,,2,relative
+S30,1,8,Bank account,1,1,1,1,Yes,data broker or website,3,employer
+S30,2,2,Other,1,1,1,1,Yes,government,3,resettlement agency
+S30,3,18,School enrollment,1,1,1,1,No,,2,attorney
+S30,4,10,Clinic / hospital,1,1,0,1,No,,1,none
+S30,5,3,Remittance,1,1,1,1,No,,3,caseworker
+S30,6,15,Utility account,1,0,1,1,Yes,employer,3,attorney
+S30,7,22,Clinic / hospital,1,0,0,0,No,,2,attorney
+S31,1,5,Remittance,1,1,0,0,No,,3,caseworker
+S31,2,2,Job-site resume,1,1,0,0,No,,2,employer
+S31,3,11,Religious community,1,1,0,0,Yes,other,3,resettlement agency
+S31,4,18,Remittance,1,1,1,0,No,,2,relative
+S31,5,10,Bank account,1,1,1,0,No,,1,relative
+S32,1,4,Bank account,1,1,1,1,Yes,data broker or website,2,caseworker
+S32,2,8,Clinic / hospital,1,1,1,0,Yes,government,2,relative
+S32,3,10,Remittance,1,1,1,0,No,,1,employer
+S32,4,10,Clinic / hospital,1,1,1,1,No,,2,relative
+S32,5,20,School enrollment,1,1,1,0,No,,2,relative
+S32,6,17,Religious community,1,0,1,0,No,,1,employer
+S32,7,5,Remittance,1,1,0,1,No,,1,relative
+S32,8,1,Job / payroll,1,1,1,0,No,,3,none
+S32,9,16,Government office,1,1,1,1,Yes,government,1,resettlement agency
+S32,10,18,Resettlement agency,1,1,1,0,No,,3,resettlement agency
+S32,11,1,Phone plan,1,1,1,1,No,,2,employer
+S33,1,20,Religious community,1,1,0,1,No,,1,caseworker
+S33,2,8,Bank account,1,1,0,0,Yes,other,1,caseworker
+S33,3,11,Car purchase / insurance,1,1,1,0,Yes,data broker or website,1,attorney
+S33,4,1,Lease / housing,1,1,0,0,Yes,data broker or website,3,caseworker
+S33,5,20,Utility account,1,1,1,1,No,,2,caseworker
+S33,6,0,Phone plan,1,0,1,1,No,,2,attorney
+S33,7,23,Phone plan,1,1,1,0,No,,3,attorney
+S34,1,18,Bank account,1,1,1,1,Yes,credit bureau,2,resettlement agency
+S34,2,18,Car purchase / insurance,1,0,1,1,No,,3,resettlement agency
+S34,3,22,Car purchase / insurance,1,1,1,1,Yes,data broker or website,2,relative
+S34,4,7,Clinic / hospital,1,1,0,0,No,,2,caseworker
+S34,5,3,Clinic / hospital,1,1,0,1,No,,3,none
+S34,6,4,Job / payroll,1,1,1,0,No,,2,employer
+S34,7,12,Resettlement agency,1,1,1,1,No,,2,attorney
+S34,8,24,Job / payroll,1,1,0,1,Yes,landlord,2,employer
+S34,9,2,Other,1,0,0,0,No,,1,employer
+S35,1,12,Driver's license,1,0,1,1,Yes,data broker or website,2,resettlement agency
+S35,2,16,Job-site resume,1,1,1,0,No,,1,attorney
+S35,3,16,Job-site resume,1,1,1,0,No,,2,none
+S35,4,6,Utility account,1,1,0,0,No,,2,attorney
+S35,5,13,Driver's license,1,1,0,0,No,,1,resettlement agency
+S36,1,4,Job / payroll,1,1,1,0,No,,1,resettlement agency
+S36,2,0,School enrollment,1,1,1,0,Yes,government,2,relative
+S36,3,16,Car purchase / insurance,1,1,0,1,Yes,landlord,1,none
+S36,4,21,Phone plan,1,1,0,1,No,,1,resettlement agency
+S36,5,0,Car purchase / insurance,1,0,1,1,Yes,landlord,2,caseworker
+S36,6,11,Driver's license,1,1,1,1,Yes,other,3,caseworker
+S36,7,7,Job / payroll,1,1,1,0,No,,3,caseworker
+S36,8,15,Utility account,1,1,1,1,No,,2,resettlement agency
+S37,1,14,Government office,1,1,1,0,No,,1,caseworker
+S37,2,12,Resettlement agency,1,1,1,0,Yes,data broker or website,2,relative
+S37,3,16,Phone plan,1,1,0,1,Yes,credit bureau,1,relative
+S37,4,12,Phone plan,1,1,1,0,No,,2,none
+S37,5,17,Bank account,1,0,1,1,No,,1,attorney
+S37,6,20,School enrollment,1,1,0,0,Yes,credit bureau,3,relative
+S37,7,13,Resettlement agency,1,1,1,1,No,,1,none
+S37,8,14,Job-site resume,1,1,1,0,Yes,employer,3,none
+S38,1,16,Other,1,1,0,0,No,,2,relative
+S38,2,12,Car purchase / insurance,1,1,1,0,No,,3,relative
+S38,3,21,Government office,1,1,0,0,Yes,other,3,attorney
+S38,4,23,Bank account,1,0,0,0,No,,3,caseworker
+S38,5,3,Other,1,1,1,0,No,,1,caseworker
+S38,6,11,Job / payroll,1,1,1,1,No,,1,relative
+S38,7,21,Immigration attorney,1,1,0,1,No,,2,caseworker
+S38,8,18,Bank account,1,1,0,1,Yes,landlord,1,none
+S39,1,12,Bank account,1,1,1,0,No,,2,attorney
+S39,2,5,Phone plan,1,1,1,0,No,,2,caseworker
+S39,3,16,Religious community,1,1,1,0,No,,2,resettlement agency
+S39,4,14,Job / payroll,1,1,1,0,No,,1,attorney
+S39,5,1,Immigration attorney,1,1,1,0,Yes,government,2,attorney
+S39,6,11,Immigration attorney,1,1,0,0,No,,3,employer
+S39,7,20,Job / payroll,1,1,1,1,Yes,government,3,relative
+S39,8,2,Utility account,1,0,1,0,No,,1,caseworker
+S39,9,21,Government office,1,1,0,0,Yes,credit bureau,3,employer
+S39,10,22,Car purchase / insurance,1,0,0,0,No,,1,attorney
+S40,1,10,Car purchase / insurance,1,1,1,1,Yes,other,2,caseworker
+S40,2,10,Utility account,1,1,1,0,No,,1,relative
+S40,3,17,Car purchase / insurance,1,1,1,1,Yes,government,3,none
+S40,4,10,Car purchase / insurance,1,1,1,0,No,,3,relative
+S41,1,7,Lease / housing,1,1,0,0,No,,1,relative
+S41,2,23,School enrollment,1,1,1,0,No,,1,resettlement agency
+S41,3,0,Driver's license,1,1,0,0,No,,1,attorney
+S41,4,7,Lease / housing,1,1,1,1,No,,1,employer
+S41,5,5,Religious community,1,1,1,1,No,,1,resettlement agency
+S41,6,17,Bank account,1,1,0,0,No,,3,resettlement agency
+S41,7,1,Lease / housing,1,1,1,0,No,,2,caseworker
+S41,8,2,Government office,1,1,1,0,Yes,government,3,attorney
+S41,9,4,Other,1,1,1,1,Yes,data broker or website,3,none
+S41,10,18,Clinic / hospital,1,1,0,1,No,,2,employer
+S41,11,12,Religious community,1,1,1,0,No,,2,relative
+S42,1,3,Government office,1,0,1,0,No,,2,none
+S42,2,11,Utility account,1,1,1,0,No,,3,caseworker
+S42,3,14,Remittance,1,1,0,1,No,,3,employer
+S42,4,24,Clinic / hospital,1,1,1,1,No,,1,resettlement agency
+S42,5,8,Driver's license,1,1,1,0,No,,2,relative
+S42,6,23,Immigration attorney,1,1,1,1,No,,2,relative
+S43,1,14,Phone plan,1,0,0,1,No,,2,relative
+S43,2,24,Lease / housing,1,1,1,0,No,,1,none
+S43,3,20,Religious community,1,1,1,0,Yes,government,3,relative
+S43,4,7,Driver's license,1,1,0,1,No,,3,resettlement agency
+S43,5,21,Resettlement agency,1,0,1,1,Yes,landlord,2,resettlement agency
+S43,6,21,Resettlement agency,1,1,1,1,No,,1,relative
+S43,7,22,Job-site resume,1,1,1,0,No,,2,caseworker
+S43,8,2,Remittance,1,0,0,0,No,,2,employer
+S43,9,24,Driver's license,1,1,1,0,Yes,employer,3,relative
+S43,10,19,Car purchase / insurance,1,1,1,1,Yes,other,3,relative
+S43,11,4,Clinic / hospital,1,1,1,0,No,,2,none
+S44,1,4,Remittance,1,1,1,1,No,,2,none
+S44,2,0,Driver's license,1,1,1,1,Yes,other,1,none
+S44,3,7,Immigration attorney,1,1,1,1,No,,1,caseworker
+S44,4,21,Immigration attorney,1,1,1,0,Yes,employer,3,attorney
+S44,5,22,Lease / housing,1,1,1,0,Yes,data broker or website,3,employer
+S45,1,7,Bank account,1,1,1,1,No,,2,relative
+S45,2,2,Remittance,1,1,0,0,No,,3,relative
+S45,3,12,Resettlement agency,1,1,0,1,Yes,other,3,caseworker
+S45,4,6,Job / payroll,1,1,0,0,No,,1,caseworker
+S45,5,24,Job / payroll,1,1,0,1,No,,3,resettlement agency
+S45,6,13,Immigration attorney,1,1,0,0,Yes,landlord,3,attorney
+S45,7,9,Utility account,1,1,1,0,No,,1,employer
+S45,8,16,Clinic / hospital,1,1,1,0,No,,2,attorney
+S45,9,13,Utility account,1,1,0,0,No,,1,resettlement agency
+S45,10,1,Religious community,1,0,0,0,No,,3,employer
+S46,1,19,Job-site resume,1,1,1,1,Yes,credit bureau,3,caseworker
+S46,2,23,Lease / housing,1,0,1,0,No,,1,relative
+S46,3,24,Car purchase / insurance,1,1,1,0,No,,3,employer
+S46,4,8,Lease / housing,1,1,1,1,No,,2,attorney
+S46,5,7,Driver's license,1,1,0,0,No,,1,caseworker
+S47,1,18,Immigration attorney,1,1,0,1,Yes,employer,1,employer
+S47,2,10,Bank account,1,0,1,0,Yes,employer,2,resettlement agency
+S47,3,4,Job-site resume,1,1,0,1,No,,3,caseworker
+S47,4,13,Car purchase / insurance,1,1,1,1,No,,1,attorney
+S47,5,8,Phone plan,1,1,0,0,No,,3,none
+S47,6,4,Remittance,1,1,0,1,Yes,landlord,1,employer
+S47,7,20,Phone plan,1,1,1,0,No,,1,attorney
+S48,1,14,Remittance,1,1,1,0,No,,2,none
+S48,2,12,Religious community,1,1,1,1,Yes,credit bureau,3,attorney
+S48,3,4,Lease / housing,1,1,1,0,No,,3,none
+S48,4,19,Other,1,1,1,1,No,,3,employer
+S48,5,15,Job-site resume,1,1,1,0,Yes,landlord,2,none
+S48,6,14,Resettlement agency,1,1,1,0,No,,3,caseworker
+S48,7,1,Government office,1,1,1,0,No,,3,attorney
+S49,1,12,Car purchase / insurance,1,1,0,0,Yes,other,1,relative
+S49,2,8,Job-site resume,1,1,1,1,No,,2,resettlement agency
+S49,3,13,Other,1,1,1,1,No,,3,employer
+S49,4,17,Utility account,1,1,0,1,No,,1,caseworker
+S49,5,5,Job-site resume,1,1,1,0,Yes,other,3,none
+S49,6,3,Driver's license,1,1,0,1,Yes,government,2,none
+S49,7,2,Other,1,1,1,0,No,,3,none
+S49,8,13,Clinic / hospital,1,1,1,0,Yes,data broker or website,3,relative
+S49,9,15,Phone plan,1,1,0,1,No,,2,attorney
+S49,10,1,Job / payroll,1,1,1,0,No,,2,resettlement agency
+S49,11,5,Job / payroll,1,1,1,1,Yes,employer,2,none
+S50,1,7,Car purchase / insurance,1,1,0,0,No,,2,resettlement agency
+S50,2,20,Clinic / hospital,1,1,1,1,No,,1,none
+S50,3,8,Clinic / hospital,1,1,1,1,Yes,government,1,attorney
+S50,4,24,School enrollment,1,1,1,1,No,,2,employer
+S50,5,12,Other,1,1,1,0,No,,1,none
+S50,6,0,Immigration attorney,1,1,1,0,Yes,other,1,relative
+S50,7,11,Job / payroll,1,1,1,1,No,,2,none
+S50,8,5,Bank account,1,1,1,0,Yes,government,3,attorney

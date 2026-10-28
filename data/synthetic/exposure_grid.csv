@@ -1,0 +1,2101 @@
+id,site,field,score
+S01,Spokeo,Current address,0
+S01,Spokeo,Past addresses,0
+S01,Spokeo,Phone,0
+S01,Spokeo,Email,0
+S01,Spokeo,Relatives,0
+S01,Spokeo,Associates,0
+S01,Spokeo,Court/public records,1
+S01,Whitepages,Current address,0
+S01,Whitepages,Past addresses,0
+S01,Whitepages,Phone,0
+S01,Whitepages,Email,0
+S01,Whitepages,Relatives,0
+S01,Whitepages,Associates,0
+S01,Whitepages,Court/public records,0
+S01,TruePeopleSearch,Current address,0
+S01,TruePeopleSearch,Past addresses,0
+S01,TruePeopleSearch,Phone,0
+S01,TruePeopleSearch,Email,0
+S01,TruePeopleSearch,Relatives,1
+S01,TruePeopleSearch,Associates,0
+S01,TruePeopleSearch,Court/public records,0
+S01,FastPeopleSearch,Current address,0
+S01,FastPeopleSearch,Past addresses,1
+S01,FastPeopleSearch,Phone,0
+S01,FastPeopleSearch,Email,0
+S01,FastPeopleSearch,Relatives,0
+S01,FastPeopleSearch,Associates,0
+S01,FastPeopleSearch,Court/public records,2
+S01,BeenVerified,Current address,1
+S01,BeenVerified,Past addresses,1
+S01,BeenVerified,Phone,1
+S01,BeenVerified,Email,1
+S01,BeenVerified,Relatives,1
+S01,BeenVerified,Associates,1
+S01,BeenVerified,Court/public records,1
+S01,Intelius,Current address,1
+S01,Intelius,Past addresses,1
+S01,Intelius,Phone,1
+S01,Intelius,Email,1
+S01,Intelius,Relatives,1
+S01,Intelius,Associates,1
+S01,Intelius,Court/public records,1
+S02,Spokeo,Current address,0
+S02,Spokeo,Past addresses,0
+S02,Spokeo,Phone,0
+S02,Spokeo,Email,0
+S02,Spokeo,Relatives,0
+S02,Spokeo,Associates,0
+S02,Spokeo,Court/public records,0
+S02,Whitepages,Current address,1
+S02,Whitepages,Past addresses,2
+S02,Whitepages,Phone,2
+S02,Whitepages,Email,0
+S02,Whitepages,Relatives,2
+S02,Whitepages,Associates,2
+S02,Whitepages,Court/public records,2
+S02,TruePeopleSearch,Current address,2
+S02,TruePeopleSearch,Past addresses,2
+S02,TruePeopleSearch,Phone,2
+S02,TruePeopleSearch,Email,2
+S02,TruePeopleSearch,Relatives,2
+S02,TruePeopleSearch,Associates,2
+S02,TruePeopleSearch,Court/public records,0
+S02,FastPeopleSearch,Current address,0
+S02,FastPeopleSearch,Past addresses,2
+S02,FastPeopleSearch,Phone,2
+S02,FastPeopleSearch,Email,2
+S02,FastPeopleSearch,Relatives,2
+S02,FastPeopleSearch,Associates,2
+S02,FastPeopleSearch,Court/public records,1
+S02,BeenVerified,Current address,1
+S02,BeenVerified,Past addresses,1
+S02,BeenVerified,Phone,1
+S02,BeenVerified,Email,1
+S02,BeenVerified,Relatives,1
+S02,BeenVerified,Associates,1
+S02,BeenVerified,Court/public records,1
+S02,Intelius,Current address,1
+S02,Intelius,Past addresses,1
+S02,Intelius,Phone,1
+S02,Intelius,Email,1
+S02,Intelius,Relatives,1
+S02,Intelius,Associates,1
+S02,Intelius,Court/public records,1
+S03,Spokeo,Current address,0
+S03,Spokeo,Past addresses,0
+S03,Spokeo,Phone,2
+S03,Spokeo,Email,2
+S03,Spokeo,Relatives,1
+S03,Spokeo,Associates,0
+S03,Spokeo,Court/public records,2
+S03,Whitepages,Current address,1
+S03,Whitepages,Past addresses,1
+S03,Whitepages,Phone,2
+S03,Whitepages,Email,0
+S03,Whitepages,Relatives,1
+S03,Whitepages,Associates,0
+S03,Whitepages,Court/public records,1
+S03,TruePeopleSearch,Current address,0
+S03,TruePeopleSearch,Past addresses,0
+S03,TruePeopleSearch,Phone,0
+S03,TruePeopleSearch,Email,0
+S03,TruePeopleSearch,Relatives,0
+S03,TruePeopleSearch,Associates,0
+S03,TruePeopleSearch,Court/public records,0
+S03,FastPeopleSearch,Current address,1
+S03,FastPeopleSearch,Past addresses,1
+S03,FastPeopleSearch,Phone,0
+S03,FastPeopleSearch,Email,2
+S03,FastPeopleSearch,Relatives,0
+S03,FastPeopleSearch,Associates,1
+S03,FastPeopleSearch,Court/public records,0
+S03,BeenVerified,Current address,1
+S03,BeenVerified,Past addresses,1
+S03,BeenVerified,Phone,1
+S03,BeenVerified,Email,1
+S03,BeenVerified,Relatives,1
+S03,BeenVerified,Associates,1
+S03,BeenVerified,Court/public records,1
+S03,Intelius,Current address,0
+S03,Intelius,Past addresses,0
+S03,Intelius,Phone,0
+S03,Intelius,Email,0
+S03,Intelius,Relatives,0
+S03,Intelius,Associates,0
+S03,Intelius,Court/public records,0
+S04,Spokeo,Current address,2
+S04,Spokeo,Past addresses,1
+S04,Spokeo,Phone,0
+S04,Spokeo,Email,2
+S04,Spokeo,Relatives,2
+S04,Spokeo,Associates,2
+S04,Spokeo,Court/public records,0
+S04,Whitepages,Current address,2
+S04,Whitepages,Past addresses,1
+S04,Whitepages,Phone,0
+S04,Whitepages,Email,0
+S04,Whitepages,Relatives,2
+S04,Whitepages,Associates,2
+S04,Whitepages,Court/public records,0
+S04,TruePeopleSearch,Current address,0
+S04,TruePeopleSearch,Past addresses,0
+S04,TruePeopleSearch,Phone,0
+S04,TruePeopleSearch,Email,0
+S04,TruePeopleSearch,Relatives,0
+S04,TruePeopleSearch,Associates,0
+S04,TruePeopleSearch,Court/public records,0
+S04,FastPeopleSearch,Current address,2
+S04,FastPeopleSearch,Past addresses,1
+S04,FastPeopleSearch,Phone,2
+S04,FastPeopleSearch,Email,2
+S04,FastPeopleSearch,Relatives,2
+S04,FastPeopleSearch,Associates,2
+S04,FastPeopleSearch,Court/public records,0
+S04,BeenVerified,Current address,1
+S04,BeenVerified,Past addresses,1
+S04,BeenVerified,Phone,1
+S04,BeenVerified,Email,1
+S04,BeenVerified,Relatives,1
+S04,BeenVerified,Associates,1
+S04,BeenVerified,Court/public records,1
+S04,Intelius,Current address,0
+S04,Intelius,Past addresses,0
+S04,Intelius,Phone,0
+S04,Intelius,Email,0
+S04,Intelius,Relatives,0
+S04,Intelius,Associates,0
+S04,Intelius,Court/public records,0
+S05,Spokeo,Current address,2
+S05,Spokeo,Past addresses,2
+S05,Spokeo,Phone,2
+S05,Spokeo,Email,2
+S05,Spokeo,Relatives,2
+S05,Spokeo,Associates,2
+S05,Spokeo,Court/public records,0
+S05,Whitepages,Current address,0
+S05,Whitepages,Past addresses,0
+S05,Whitepages,Phone,0
+S05,Whitepages,Email,0
+S05,Whitepages,Relatives,0
+S05,Whitepages,Associates,0
+S05,Whitepages,Court/public records,0
+S05,TruePeopleSearch,Current address,2
+S05,TruePeopleSearch,Past addresses,2
+S05,TruePeopleSearch,Phone,2
+S05,TruePeopleSearch,Email,2
+S05,TruePeopleSearch,Relatives,2
+S05,TruePeopleSearch,Associates,2
+S05,TruePeopleSearch,Court/public records,1
+S05,FastPeopleSearch,Current address,2
+S05,FastPeopleSearch,Past addresses,2
+S05,FastPeopleSearch,Phone,2
+S05,FastPeopleSearch,Email,2
+S05,FastPeopleSearch,Relatives,2
+S05,FastPeopleSearch,Associates,2
+S05,FastPeopleSearch,Court/public records,0
+S05,BeenVerified,Current address,1
+S05,BeenVerified,Past addresses,1
+S05,BeenVerified,Phone,1
+S05,BeenVerified,Email,1
+S05,BeenVerified,Relatives,1
+S05,BeenVerified,Associates,1
+S05,BeenVerified,Court/public records,1
+S05,Intelius,Current address,1
+S05,Intelius,Past addresses,1
+S05,Intelius,Phone,1
+S05,Intelius,Email,1
+S05,Intelius,Relatives,1
+S05,Intelius,Associates,1
+S05,Intelius,Court/public records,1
+S06,Spokeo,Current address,0
+S06,Spokeo,Past addresses,0
+S06,Spokeo,Phone,0
+S06,Spokeo,Email,0
+S06,Spokeo,Relatives,0
+S06,Spokeo,Associates,0
+S06,Spokeo,Court/public records,0
+S06,Whitepages,Current address,0
+S06,Whitepages,Past addresses,0
+S06,Whitepages,Phone,0
+S06,Whitepages,Email,0
+S06,Whitepages,Relatives,0
+S06,Whitepages,Associates,0
+S06,Whitepages,Court/public records,0
+S06,TruePeopleSearch,Current address,2
+S06,TruePeopleSearch,Past addresses,0
+S06,TruePeopleSearch,Phone,2
+S06,TruePeopleSearch,Email,2
+S06,TruePeopleSearch,Relatives,2
+S06,TruePeopleSearch,Associates,2
+S06,TruePeopleSearch,Court/public records,0
+S06,FastPeopleSearch,Current address,2
+S06,FastPeopleSearch,Past addresses,2
+S06,FastPeopleSearch,Phone,2
+S06,FastPeopleSearch,Email,0
+S06,FastPeopleSearch,Relatives,0
+S06,FastPeopleSearch,Associates,2
+S06,FastPeopleSearch,Court/public records,0
+S06,BeenVerified,Current address,0
+S06,BeenVerified,Past addresses,0
+S06,BeenVerified,Phone,0
+S06,BeenVerified,Email,0
+S06,BeenVerified,Relatives,0
+S06,BeenVerified,Associates,0
+S06,BeenVerified,Court/public records,0
+S06,Intelius,Current address,1
+S06,Intelius,Past addresses,1
+S06,Intelius,Phone,1
+S06,Intelius,Email,1
+S06,Intelius,Relatives,1
+S06,Intelius,Associates,1
+S06,Intelius,Court/public records,1
+S07,Spokeo,Current address,0
+S07,Spokeo,Past addresses,0
+S07,Spokeo,Phone,0
+S07,Spokeo,Email,0
+S07,Spokeo,Relatives,0
+S07,Spokeo,Associates,0
+S07,Spokeo,Court/public records,0
+S07,Whitepages,Current address,0
+S07,Whitepages,Past addresses,0
+S07,Whitepages,Phone,0
+S07,Whitepages,Email,0
+S07,Whitepages,Relatives,0
+S07,Whitepages,Associates,0
+S07,Whitepages,Court/public records,0
+S07,TruePeopleSearch,Current address,2
+S07,TruePeopleSearch,Past addresses,2
+S07,TruePeopleSearch,Phone,2
+S07,TruePeopleSearch,Email,0
+S07,TruePeopleSearch,Relatives,2
+S07,TruePeopleSearch,Associates,2
+S07,TruePeopleSearch,Court/public records,0
+S07,FastPeopleSearch,Current address,2
+S07,FastPeopleSearch,Past addresses,2
+S07,FastPeopleSearch,Phone,2
+S07,FastPeopleSearch,Email,2
+S07,FastPeopleSearch,Relatives,2
+S07,FastPeopleSearch,Associates,2
+S07,FastPeopleSearch,Court/public records,1
+S07,BeenVerified,Current address,1
+S07,BeenVerified,Past addresses,1
+S07,BeenVerified,Phone,1
+S07,BeenVerified,Email,1
+S07,BeenVerified,Relatives,1
+S07,BeenVerified,Associates,1
+S07,BeenVerified,Court/public records,1
+S07,Intelius,Current address,1
+S07,Intelius,Past addresses,1
+S07,Intelius,Phone,1
+S07,Intelius,Email,1
+S07,Intelius,Relatives,1
+S07,Intelius,Associates,1
+S07,Intelius,Court/public records,1
+S08,Spokeo,Current address,2
+S08,Spokeo,Past addresses,1
+S08,Spokeo,Phone,2
+S08,Spokeo,Email,2
+S08,Spokeo,Relatives,0
+S08,Spokeo,Associates,2
+S08,Spokeo,Court/public records,0
+S08,Whitepages,Current address,0
+S08,Whitepages,Past addresses,0
+S08,Whitepages,Phone,0
+S08,Whitepages,Email,0
+S08,Whitepages,Relatives,0
+S08,Whitepages,Associates,0
+S08,Whitepages,Court/public records,0
+S08,TruePeopleSearch,Current address,1
+S08,TruePeopleSearch,Past addresses,1
+S08,TruePeopleSearch,Phone,1
+S08,TruePeopleSearch,Email,0
+S08,TruePeopleSearch,Relatives,2
+S08,TruePeopleSearch,Associates,0
+S08,TruePeopleSearch,Court/public records,2
+S08,FastPeopleSearch,Current address,0
+S08,FastPeopleSearch,Past addresses,0
+S08,FastPeopleSearch,Phone,0
+S08,FastPeopleSearch,Email,0
+S08,FastPeopleSearch,Relatives,0
+S08,FastPeopleSearch,Associates,0
+S08,FastPeopleSearch,Court/public records,0
+S08,BeenVerified,Current address,0
+S08,BeenVerified,Past addresses,0
+S08,BeenVerified,Phone,0
+S08,BeenVerified,Email,0
+S08,BeenVerified,Relatives,0
+S08,BeenVerified,Associates,0
+S08,BeenVerified,Court/public records,0
+S08,Intelius,Current address,0
+S08,Intelius,Past addresses,0
+S08,Intelius,Phone,0
+S08,Intelius,Email,0
+S08,Intelius,Relatives,0
+S08,Intelius,Associates,0
+S08,Intelius,Court/public records,0
+S09,Spokeo,Current address,2
+S09,Spokeo,Past addresses,2
+S09,Spokeo,Phone,2
+S09,Spokeo,Email,1
+S09,Spokeo,Relatives,2
+S09,Spokeo,Associates,2
+S09,Spokeo,Court/public records,1
+S09,Whitepages,Current address,0
+S09,Whitepages,Past addresses,0
+S09,Whitepages,Phone,0
+S09,Whitepages,Email,0
+S09,Whitepages,Relatives,0
+S09,Whitepages,Associates,0
+S09,Whitepages,Court/public records,0
+S09,TruePeopleSearch,Current address,0
+S09,TruePeopleSearch,Past addresses,0
+S09,TruePeopleSearch,Phone,0
+S09,TruePeopleSearch,Email,0
+S09,TruePeopleSearch,Relatives,0
+S09,TruePeopleSearch,Associates,0
+S09,TruePeopleSearch,Court/public records,0
+S09,FastPeopleSearch,Current address,2
+S09,FastPeopleSearch,Past addresses,1
+S09,FastPeopleSearch,Phone,1
+S09,FastPeopleSearch,Email,2
+S09,FastPeopleSearch,Relatives,1
+S09,FastPeopleSearch,Associates,2
+S09,FastPeopleSearch,Court/public records,2
+S09,BeenVerified,Current address,1
+S09,BeenVerified,Past addresses,1
+S09,BeenVerified,Phone,1
+S09,BeenVerified,Email,1
+S09,BeenVerified,Relatives,1
+S09,BeenVerified,Associates,1
+S09,BeenVerified,Court/public records,1
+S09,Intelius,Current address,1
+S09,Intelius,Past addresses,1
+S09,Intelius,Phone,1
+S09,Intelius,Email,1
+S09,Intelius,Relatives,1
+S09,Intelius,Associates,1
+S09,Intelius,Court/public records,1
+S10,Spokeo,Current address,1
+S10,Spokeo,Past addresses,2
+S10,Spokeo,Phone,0
+S10,Spokeo,Email,0
+S10,Spokeo,Relatives,2
+S10,Spokeo,Associates,2
+S10,Spokeo,Court/public records,0
+S10,Whitepages,Current address,0
+S10,Whitepages,Past addresses,0
+S10,Whitepages,Phone,0
+S10,Whitepages,Email,0
+S10,Whitepages,Relatives,0
+S10,Whitepages,Associates,0
+S10,Whitepages,Court/public records,0
+S10,TruePeopleSearch,Current address,0
+S10,TruePeopleSearch,Past addresses,0
+S10,TruePeopleSearch,Phone,0
+S10,TruePeopleSearch,Email,0
+S10,TruePeopleSearch,Relatives,0
+S10,TruePeopleSearch,Associates,0
+S10,TruePeopleSearch,Court/public records,0
+S10,FastPeopleSearch,Current address,0
+S10,FastPeopleSearch,Past addresses,0
+S10,FastPeopleSearch,Phone,0
+S10,FastPeopleSearch,Email,0
+S10,FastPeopleSearch,Relatives,0
+S10,FastPeopleSearch,Associates,0
+S10,FastPeopleSearch,Court/public records,0
+S10,BeenVerified,Current address,1
+S10,BeenVerified,Past addresses,1
+S10,BeenVerified,Phone,1
+S10,BeenVerified,Email,1
+S10,BeenVerified,Relatives,1
+S10,BeenVerified,Associates,1
+S10,BeenVerified,Court/public records,1
+S10,Intelius,Current address,1
+S10,Intelius,Past addresses,1
+S10,Intelius,Phone,1
+S10,Intelius,Email,1
+S10,Intelius,Relatives,1
+S10,Intelius,Associates,1
+S10,Intelius,Court/public records,1
+S11,Spokeo,Current address,0
+S11,Spokeo,Past addresses,0
+S11,Spokeo,Phone,0
+S11,Spokeo,Email,0
+S11,Spokeo,Relatives,0
+S11,Spokeo,Associates,0
+S11,Spokeo,Court/public records,0
+S11,Whitepages,Current address,0
+S11,Whitepages,Past addresses,0
+S11,Whitepages,Phone,0
+S11,Whitepages,Email,0
+S11,Whitepages,Relatives,0
+S11,Whitepages,Associates,0
+S11,Whitepages,Court/public records,0
+S11,TruePeopleSearch,Current address,2
+S11,TruePeopleSearch,Past addresses,0
+S11,TruePeopleSearch,Phone,2
+S11,TruePeopleSearch,Email,2
+S11,TruePeopleSearch,Relatives,2
+S11,TruePeopleSearch,Associates,2
+S11,TruePeopleSearch,Court/public records,1
+S11,FastPeopleSearch,Current address,2
+S11,FastPeopleSearch,Past addresses,2
+S11,FastPeopleSearch,Phone,2
+S11,FastPeopleSearch,Email,2
+S11,FastPeopleSearch,Relatives,2
+S11,FastPeopleSearch,Associates,2
+S11,FastPeopleSearch,Court/public records,0
+S11,BeenVerified,Current address,1
+S11,BeenVerified,Past addresses,1
+S11,BeenVerified,Phone,1
+S11,BeenVerified,Email,1
+S11,BeenVerified,Relatives,1
+S11,BeenVerified,Associates,1
+S11,BeenVerified,Court/public records,1
+S11,Intelius,Current address,1
+S11,Intelius,Past addresses,1
+S11,Intelius,Phone,1
+S11,Intelius,Email,1
+S11,Intelius,Relatives,1
+S11,Intelius,Associates,1
+S11,Intelius,Court/public records,1
+S12,Spokeo,Current address,1
+S12,Spokeo,Past addresses,0
+S12,Spokeo,Phone,0
+S12,Spokeo,Email,0
+S12,Spokeo,Relatives,0
+S12,Spokeo,Associates,0
+S12,Spokeo,Court/public records,0
+S12,Whitepages,Current address,0
+S12,Whitepages,Past addresses,0
+S12,Whitepages,Phone,0
+S12,Whitepages,Email,0
+S12,Whitepages,Relatives,0
+S12,Whitepages,Associates,0
+S12,Whitepages,Court/public records,0
+S12,TruePeopleSearch,Current address,0
+S12,TruePeopleSearch,Past addresses,0
+S12,TruePeopleSearch,Phone,0
+S12,TruePeopleSearch,Email,0
+S12,TruePeopleSearch,Relatives,0
+S12,TruePeopleSearch,Associates,0
+S12,TruePeopleSearch,Court/public records,0
+S12,FastPeopleSearch,Current address,0
+S12,FastPeopleSearch,Past addresses,0
+S12,FastPeopleSearch,Phone,0
+S12,FastPeopleSearch,Email,0
+S12,FastPeopleSearch,Relatives,1
+S12,FastPeopleSearch,Associates,1
+S12,FastPeopleSearch,Court/public records,0
+S12,BeenVerified,Current address,1
+S12,BeenVerified,Past addresses,1
+S12,BeenVerified,Phone,1
+S12,BeenVerified,Email,1
+S12,BeenVerified,Relatives,1
+S12,BeenVerified,Associates,1
+S12,BeenVerified,Court/public records,1
+S12,Intelius,Current address,1
+S12,Intelius,Past addresses,1
+S12,Intelius,Phone,1
+S12,Intelius,Email,1
+S12,Intelius,Relatives,1
+S12,Intelius,Associates,1
+S12,Intelius,Court/public records,1
+S13,Spokeo,Current address,2
+S13,Spokeo,Past addresses,2
+S13,Spokeo,Phone,0
+S13,Spokeo,Email,2
+S13,Spokeo,Relatives,2
+S13,Spokeo,Associates,0
+S13,Spokeo,Court/public records,0
+S13,Whitepages,Current address,0
+S13,Whitepages,Past addresses,0
+S13,Whitepages,Phone,0
+S13,Whitepages,Email,0
+S13,Whitepages,Relatives,0
+S13,Whitepages,Associates,0
+S13,Whitepages,Court/public records,0
+S13,TruePeopleSearch,Current address,2
+S13,TruePeopleSearch,Past addresses,0
+S13,TruePeopleSearch,Phone,2
+S13,TruePeopleSearch,Email,2
+S13,TruePeopleSearch,Relatives,2
+S13,TruePeopleSearch,Associates,2
+S13,TruePeopleSearch,Court/public records,0
+S13,FastPeopleSearch,Current address,2
+S13,FastPeopleSearch,Past addresses,2
+S13,FastPeopleSearch,Phone,0
+S13,FastPeopleSearch,Email,2
+S13,FastPeopleSearch,Relatives,0
+S13,FastPeopleSearch,Associates,0
+S13,FastPeopleSearch,Court/public records,0
+S13,BeenVerified,Current address,1
+S13,BeenVerified,Past addresses,1
+S13,BeenVerified,Phone,1
+S13,BeenVerified,Email,1
+S13,BeenVerified,Relatives,1
+S13,BeenVerified,Associates,1
+S13,BeenVerified,Court/public records,1
+S13,Intelius,Current address,1
+S13,Intelius,Past addresses,1
+S13,Intelius,Phone,1
+S13,Intelius,Email,1
+S13,Intelius,Relatives,1
+S13,Intelius,Associates,1
+S13,Intelius,Court/public records,1
+S14,Spokeo,Current address,2
+S14,Spokeo,Past addresses,1
+S14,Spokeo,Phone,0
+S14,Spokeo,Email,0
+S14,Spokeo,Relatives,2
+S14,Spokeo,Associates,2
+S14,Spokeo,Court/public records,0
+S14,Whitepages,Current address,0
+S14,Whitepages,Past addresses,0
+S14,Whitepages,Phone,0
+S14,Whitepages,Email,0
+S14,Whitepages,Relatives,0
+S14,Whitepages,Associates,0
+S14,Whitepages,Court/public records,0
+S14,TruePeopleSearch,Current address,2
+S14,TruePeopleSearch,Past addresses,1
+S14,TruePeopleSearch,Phone,0
+S14,TruePeopleSearch,Email,0
+S14,TruePeopleSearch,Relatives,2
+S14,TruePeopleSearch,Associates,2
+S14,TruePeopleSearch,Court/public records,0
+S14,FastPeopleSearch,Current address,1
+S14,FastPeopleSearch,Past addresses,1
+S14,FastPeopleSearch,Phone,0
+S14,FastPeopleSearch,Email,0
+S14,FastPeopleSearch,Relatives,2
+S14,FastPeopleSearch,Associates,2
+S14,FastPeopleSearch,Court/public records,0
+S14,BeenVerified,Current address,0
+S14,BeenVerified,Past addresses,0
+S14,BeenVerified,Phone,0
+S14,BeenVerified,Email,0
+S14,BeenVerified,Relatives,0
+S14,BeenVerified,Associates,0
+S14,BeenVerified,Court/public records,0
+S14,Intelius,Current address,1
+S14,Intelius,Past addresses,1
+S14,Intelius,Phone,1
+S14,Intelius,Email,1
+S14,Intelius,Relatives,1
+S14,Intelius,Associates,1
+S14,Intelius,Court/public records,1
+S15,Spokeo,Current address,2
+S15,Spokeo,Past addresses,2
+S15,Spokeo,Phone,1
+S15,Spokeo,Email,0
+S15,Spokeo,Relatives,2
+S15,Spokeo,Associates,2
+S15,Spokeo,Court/public records,1
+S15,Whitepages,Current address,0
+S15,Whitepages,Past addresses,0
+S15,Whitepages,Phone,0
+S15,Whitepages,Email,0
+S15,Whitepages,Relatives,0
+S15,Whitepages,Associates,0
+S15,Whitepages,Court/public records,0
+S15,TruePeopleSearch,Current address,2
+S15,TruePeopleSearch,Past addresses,2
+S15,TruePeopleSearch,Phone,2
+S15,TruePeopleSearch,Email,2
+S15,TruePeopleSearch,Relatives,2
+S15,TruePeopleSearch,Associates,2
+S15,TruePeopleSearch,Court/public records,0
+S15,FastPeopleSearch,Current address,2
+S15,FastPeopleSearch,Past addresses,2
+S15,FastPeopleSearch,Phone,0
+S15,FastPeopleSearch,Email,2
+S15,FastPeopleSearch,Relatives,2
+S15,FastPeopleSearch,Associates,2
+S15,FastPeopleSearch,Court/public records,0
+S15,BeenVerified,Current address,1
+S15,BeenVerified,Past addresses,1
+S15,BeenVerified,Phone,1
+S15,BeenVerified,Email,1
+S15,BeenVerified,Relatives,1
+S15,BeenVerified,Associates,1
+S15,BeenVerified,Court/public records,1
+S15,Intelius,Current address,1
+S15,Intelius,Past addresses,1
+S15,Intelius,Phone,1
+S15,Intelius,Email,1
+S15,Intelius,Relatives,1
+S15,Intelius,Associates,1
+S15,Intelius,Court/public records,1
+S16,Spokeo,Current address,0
+S16,Spokeo,Past addresses,2
+S16,Spokeo,Phone,0
+S16,Spokeo,Email,0
+S16,Spokeo,Relatives,2
+S16,Spokeo,Associates,2
+S16,Spokeo,Court/public records,0
+S16,Whitepages,Current address,0
+S16,Whitepages,Past addresses,0
+S16,Whitepages,Phone,0
+S16,Whitepages,Email,0
+S16,Whitepages,Relatives,0
+S16,Whitepages,Associates,0
+S16,Whitepages,Court/public records,0
+S16,TruePeopleSearch,Current address,2
+S16,TruePeopleSearch,Past addresses,2
+S16,TruePeopleSearch,Phone,2
+S16,TruePeopleSearch,Email,2
+S16,TruePeopleSearch,Relatives,2
+S16,TruePeopleSearch,Associates,2
+S16,TruePeopleSearch,Court/public records,0
+S16,FastPeopleSearch,Current address,2
+S16,FastPeopleSearch,Past addresses,2
+S16,FastPeopleSearch,Phone,2
+S16,FastPeopleSearch,Email,2
+S16,FastPeopleSearch,Relatives,2
+S16,FastPeopleSearch,Associates,2
+S16,FastPeopleSearch,Court/public records,0
+S16,BeenVerified,Current address,1
+S16,BeenVerified,Past addresses,1
+S16,BeenVerified,Phone,1
+S16,BeenVerified,Email,1
+S16,BeenVerified,Relatives,1
+S16,BeenVerified,Associates,1
+S16,BeenVerified,Court/public records,1
+S16,Intelius,Current address,1
+S16,Intelius,Past addresses,1
+S16,Intelius,Phone,1
+S16,Intelius,Email,1
+S16,Intelius,Relatives,1
+S16,Intelius,Associates,1
+S16,Intelius,Court/public records,1
+S17,Spokeo,Current address,1
+S17,Spokeo,Past addresses,2
+S17,Spokeo,Phone,2
+S17,Spokeo,Email,2
+S17,Spokeo,Relatives,2
+S17,Spokeo,Associates,2
+S17,Spokeo,Court/public records,0
+S17,Whitepages,Current address,2
+S17,Whitepages,Past addresses,2
+S17,Whitepages,Phone,1
+S17,Whitepages,Email,0
+S17,Whitepages,Relatives,2
+S17,Whitepages,Associates,2
+S17,Whitepages,Court/public records,1
+S17,TruePeopleSearch,Current address,2
+S17,TruePeopleSearch,Past addresses,2
+S17,TruePeopleSearch,Phone,2
+S17,TruePeopleSearch,Email,2
+S17,TruePeopleSearch,Relatives,2
+S17,TruePeopleSearch,Associates,2
+S17,TruePeopleSearch,Court/public records,0
+S17,FastPeopleSearch,Current address,2
+S17,FastPeopleSearch,Past addresses,1
+S17,FastPeopleSearch,Phone,2
+S17,FastPeopleSearch,Email,1
+S17,FastPeopleSearch,Relatives,2
+S17,FastPeopleSearch,Associates,1
+S17,FastPeopleSearch,Court/public records,2
+S17,BeenVerified,Current address,1
+S17,BeenVerified,Past addresses,1
+S17,BeenVerified,Phone,1
+S17,BeenVerified,Email,1
+S17,BeenVerified,Relatives,1
+S17,BeenVerified,Associates,1
+S17,BeenVerified,Court/public records,1
+S17,Intelius,Current address,1
+S17,Intelius,Past addresses,1
+S17,Intelius,Phone,1
+S17,Intelius,Email,1
+S17,Intelius,Relatives,1
+S17,Intelius,Associates,1
+S17,Intelius,Court/public records,1
+S18,Spokeo,Current address,0
+S18,Spokeo,Past addresses,0
+S18,Spokeo,Phone,0
+S18,Spokeo,Email,0
+S18,Spokeo,Relatives,0
+S18,Spokeo,Associates,0
+S18,Spokeo,Court/public records,0
+S18,Whitepages,Current address,0
+S18,Whitepages,Past addresses,2
+S18,Whitepages,Phone,2
+S18,Whitepages,Email,2
+S18,Whitepages,Relatives,2
+S18,Whitepages,Associates,2
+S18,Whitepages,Court/public records,0
+S18,TruePeopleSearch,Current address,2
+S18,TruePeopleSearch,Past addresses,2
+S18,TruePeopleSearch,Phone,2
+S18,TruePeopleSearch,Email,2
+S18,TruePeopleSearch,Relatives,2
+S18,TruePeopleSearch,Associates,2
+S18,TruePeopleSearch,Court/public records,0
+S18,FastPeopleSearch,Current address,2
+S18,FastPeopleSearch,Past addresses,1
+S18,FastPeopleSearch,Phone,2
+S18,FastPeopleSearch,Email,2
+S18,FastPeopleSearch,Relatives,2
+S18,FastPeopleSearch,Associates,2
+S18,FastPeopleSearch,Court/public records,1
+S18,BeenVerified,Current address,1
+S18,BeenVerified,Past addresses,1
+S18,BeenVerified,Phone,1
+S18,BeenVerified,Email,1
+S18,BeenVerified,Relatives,1
+S18,BeenVerified,Associates,1
+S18,BeenVerified,Court/public records,1
+S18,Intelius,Current address,1
+S18,Intelius,Past addresses,1
+S18,Intelius,Phone,1
+S18,Intelius,Email,1
+S18,Intelius,Relatives,1
+S18,Intelius,Associates,1
+S18,Intelius,Court/public records,1
+S19,Spokeo,Current address,2
+S19,Spokeo,Past addresses,2
+S19,Spokeo,Phone,2
+S19,Spokeo,Email,0
+S19,Spokeo,Relatives,2
+S19,Spokeo,Associates,2
+S19,Spokeo,Court/public records,2
+S19,Whitepages,Current address,0
+S19,Whitepages,Past addresses,1
+S19,Whitepages,Phone,2
+S19,Whitepages,Email,0
+S19,Whitepages,Relatives,2
+S19,Whitepages,Associates,2
+S19,Whitepages,Court/public records,0
+S19,TruePeopleSearch,Current address,2
+S19,TruePeopleSearch,Past addresses,1
+S19,TruePeopleSearch,Phone,2
+S19,TruePeopleSearch,Email,2
+S19,TruePeopleSearch,Relatives,2
+S19,TruePeopleSearch,Associates,2
+S19,TruePeopleSearch,Court/public records,0
+S19,FastPeopleSearch,Current address,2
+S19,FastPeopleSearch,Past addresses,2
+S19,FastPeopleSearch,Phone,2
+S19,FastPeopleSearch,Email,2
+S19,FastPeopleSearch,Relatives,2
+S19,FastPeopleSearch,Associates,1
+S19,FastPeopleSearch,Court/public records,1
+S19,BeenVerified,Current address,1
+S19,BeenVerified,Past addresses,1
+S19,BeenVerified,Phone,1
+S19,BeenVerified,Email,1
+S19,BeenVerified,Relatives,1
+S19,BeenVerified,Associates,1
+S19,BeenVerified,Court/public records,1
+S19,Intelius,Current address,1
+S19,Intelius,Past addresses,1
+S19,Intelius,Phone,1
+S19,Intelius,Email,1
+S19,Intelius,Relatives,1
+S19,Intelius,Associates,1
+S19,Intelius,Court/public records,1
+S20,Spokeo,Current address,2
+S20,Spokeo,Past addresses,1
+S20,Spokeo,Phone,2
+S20,Spokeo,Email,2
+S20,Spokeo,Relatives,0
+S20,Spokeo,Associates,0
+S20,Spokeo,Court/public records,0
+S20,Whitepages,Current address,0
+S20,Whitepages,Past addresses,0
+S20,Whitepages,Phone,0
+S20,Whitepages,Email,0
+S20,Whitepages,Relatives,0
+S20,Whitepages,Associates,0
+S20,Whitepages,Court/public records,0
+S20,TruePeopleSearch,Current address,0
+S20,TruePeopleSearch,Past addresses,0
+S20,TruePeopleSearch,Phone,0
+S20,TruePeopleSearch,Email,0
+S20,TruePeopleSearch,Relatives,0
+S20,TruePeopleSearch,Associates,0
+S20,TruePeopleSearch,Court/public records,0
+S20,FastPeopleSearch,Current address,0
+S20,FastPeopleSearch,Past addresses,1
+S20,FastPeopleSearch,Phone,1
+S20,FastPeopleSearch,Email,2
+S20,FastPeopleSearch,Relatives,2
+S20,FastPeopleSearch,Associates,2
+S20,FastPeopleSearch,Court/public records,1
+S20,BeenVerified,Current address,1
+S20,BeenVerified,Past addresses,1
+S20,BeenVerified,Phone,1
+S20,BeenVerified,Email,1
+S20,BeenVerified,Relatives,1
+S20,BeenVerified,Associates,1
+S20,BeenVerified,Court/public records,1
+S20,Intelius,Current address,1
+S20,Intelius,Past addresses,1
+S20,Intelius,Phone,1
+S20,Intelius,Email,1
+S20,Intelius,Relatives,1
+S20,Intelius,Associates,1
+S20,Intelius,Court/public records,1
+S21,Spokeo,Current address,0
+S21,Spokeo,Past addresses,0
+S21,Spokeo,Phone,0
+S21,Spokeo,Email,0
+S21,Spokeo,Relatives,0
+S21,Spokeo,Associates,0
+S21,Spokeo,Court/public records,0
+S21,Whitepages,Current address,0
+S21,Whitepages,Past addresses,0
+S21,Whitepages,Phone,0
+S21,Whitepages,Email,0
+S21,Whitepages,Relatives,0
+S21,Whitepages,Associates,0
+S21,Whitepages,Court/public records,0
+S21,TruePeopleSearch,Current address,2
+S21,TruePeopleSearch,Past addresses,1
+S21,TruePeopleSearch,Phone,2
+S21,TruePeopleSearch,Email,1
+S21,TruePeopleSearch,Relatives,2
+S21,TruePeopleSearch,Associates,2
+S21,TruePeopleSearch,Court/public records,0
+S21,FastPeopleSearch,Current address,2
+S21,FastPeopleSearch,Past addresses,1
+S21,FastPeopleSearch,Phone,2
+S21,FastPeopleSearch,Email,2
+S21,FastPeopleSearch,Relatives,2
+S21,FastPeopleSearch,Associates,2
+S21,FastPeopleSearch,Court/public records,0
+S21,BeenVerified,Current address,0
+S21,BeenVerified,Past addresses,0
+S21,BeenVerified,Phone,0
+S21,BeenVerified,Email,0
+S21,BeenVerified,Relatives,0
+S21,BeenVerified,Associates,0
+S21,BeenVerified,Court/public records,0
+S21,Intelius,Current address,1
+S21,Intelius,Past addresses,1
+S21,Intelius,Phone,1
+S21,Intelius,Email,1
+S21,Intelius,Relatives,1
+S21,Intelius,Associates,1
+S21,Intelius,Court/public records,1
+S22,Spokeo,Current address,0
+S22,Spokeo,Past addresses,0
+S22,Spokeo,Phone,0
+S22,Spokeo,Email,0
+S22,Spokeo,Relatives,0
+S22,Spokeo,Associates,0
+S22,Spokeo,Court/public records,0
+S22,Whitepages,Current address,0
+S22,Whitepages,Past addresses,0
+S22,Whitepages,Phone,0
+S22,Whitepages,Email,0
+S22,Whitepages,Relatives,0
+S22,Whitepages,Associates,0
+S22,Whitepages,Court/public records,0
+S22,TruePeopleSearch,Current address,0
+S22,TruePeopleSearch,Past addresses,0
+S22,TruePeopleSearch,Phone,0
+S22,TruePeopleSearch,Email,0
+S22,TruePeopleSearch,Relatives,0
+S22,TruePeopleSearch,Associates,0
+S22,TruePeopleSearch,Court/public records,0
+S22,FastPeopleSearch,Current address,0
+S22,FastPeopleSearch,Past addresses,2
+S22,FastPeopleSearch,Phone,0
+S22,FastPeopleSearch,Email,0
+S22,FastPeopleSearch,Relatives,0
+S22,FastPeopleSearch,Associates,2
+S22,FastPeopleSearch,Court/public records,1
+S22,BeenVerified,Current address,1
+S22,BeenVerified,Past addresses,1
+S22,BeenVerified,Phone,1
+S22,BeenVerified,Email,1
+S22,BeenVerified,Relatives,1
+S22,BeenVerified,Associates,1
+S22,BeenVerified,Court/public records,1
+S22,Intelius,Current address,1
+S22,Intelius,Past addresses,1
+S22,Intelius,Phone,1
+S22,Intelius,Email,1
+S22,Intelius,Relatives,1
+S22,Intelius,Associates,1
+S22,Intelius,Court/public records,1
+S23,Spokeo,Current address,1
+S23,Spokeo,Past addresses,1
+S23,Spokeo,Phone,0
+S23,Spokeo,Email,0
+S23,Spokeo,Relatives,2
+S23,Spokeo,Associates,1
+S23,Spokeo,Court/public records,0
+S23,Whitepages,Current address,2
+S23,Whitepages,Past addresses,1
+S23,Whitepages,Phone,1
+S23,Whitepages,Email,0
+S23,Whitepages,Relatives,2
+S23,Whitepages,Associates,2
+S23,Whitepages,Court/public records,1
+S23,TruePeopleSearch,Current address,2
+S23,TruePeopleSearch,Past addresses,1
+S23,TruePeopleSearch,Phone,0
+S23,TruePeopleSearch,Email,0
+S23,TruePeopleSearch,Relatives,2
+S23,TruePeopleSearch,Associates,2
+S23,TruePeopleSearch,Court/public records,2
+S23,FastPeopleSearch,Current address,0
+S23,FastPeopleSearch,Past addresses,0
+S23,FastPeopleSearch,Phone,0
+S23,FastPeopleSearch,Email,0
+S23,FastPeopleSearch,Relatives,0
+S23,FastPeopleSearch,Associates,0
+S23,FastPeopleSearch,Court/public records,0
+S23,BeenVerified,Current address,1
+S23,BeenVerified,Past addresses,1
+S23,BeenVerified,Phone,1
+S23,BeenVerified,Email,1
+S23,BeenVerified,Relatives,1
+S23,BeenVerified,Associates,1
+S23,BeenVerified,Court/public records,1
+S23,Intelius,Current address,0
+S23,Intelius,Past addresses,0
+S23,Intelius,Phone,0
+S23,Intelius,Email,0
+S23,Intelius,Relatives,0
+S23,Intelius,Associates,0
+S23,Intelius,Court/public records,0
+S24,Spokeo,Current address,1
+S24,Spokeo,Past addresses,2
+S24,Spokeo,Phone,0
+S24,Spokeo,Email,1
+S24,Spokeo,Relatives,2
+S24,Spokeo,Associates,2
+S24,Spokeo,Court/public records,2
+S24,Whitepages,Current address,2
+S24,Whitepages,Past addresses,2
+S24,Whitepages,Phone,0
+S24,Whitepages,Email,0
+S24,Whitepages,Relatives,2
+S24,Whitepages,Associates,2
+S24,Whitepages,Court/public records,0
+S24,TruePeopleSearch,Current address,2
+S24,TruePeopleSearch,Past addresses,2
+S24,TruePeopleSearch,Phone,1
+S24,TruePeopleSearch,Email,0
+S24,TruePeopleSearch,Relatives,1
+S24,TruePeopleSearch,Associates,0
+S24,TruePeopleSearch,Court/public records,0
+S24,FastPeopleSearch,Current address,0
+S24,FastPeopleSearch,Past addresses,0
+S24,FastPeopleSearch,Phone,0
+S24,FastPeopleSearch,Email,0
+S24,FastPeopleSearch,Relatives,0
+S24,FastPeopleSearch,Associates,0
+S24,FastPeopleSearch,Court/public records,0
+S24,BeenVerified,Current address,1
+S24,BeenVerified,Past addresses,1
+S24,BeenVerified,Phone,1
+S24,BeenVerified,Email,1
+S24,BeenVerified,Relatives,1
+S24,BeenVerified,Associates,1
+S24,BeenVerified,Court/public records,1
+S24,Intelius,Current address,1
+S24,Intelius,Past addresses,1
+S24,Intelius,Phone,1
+S24,Intelius,Email,1
+S24,Intelius,Relatives,1
+S24,Intelius,Associates,1
+S24,Intelius,Court/public records,1
+S25,Spokeo,Current address,0
+S25,Spokeo,Past addresses,0
+S25,Spokeo,Phone,1
+S25,Spokeo,Email,0
+S25,Spokeo,Relatives,1
+S25,Spokeo,Associates,0
+S25,Spokeo,Court/public records,0
+S25,Whitepages,Current address,0
+S25,Whitepages,Past addresses,1
+S25,Whitepages,Phone,0
+S25,Whitepages,Email,0
+S25,Whitepages,Relatives,1
+S25,Whitepages,Associates,1
+S25,Whitepages,Court/public records,1
+S25,TruePeopleSearch,Current address,0
+S25,TruePeopleSearch,Past addresses,0
+S25,TruePeopleSearch,Phone,0
+S25,TruePeopleSearch,Email,0
+S25,TruePeopleSearch,Relatives,0
+S25,TruePeopleSearch,Associates,0
+S25,TruePeopleSearch,Court/public records,0
+S25,FastPeopleSearch,Current address,0
+S25,FastPeopleSearch,Past addresses,1
+S25,FastPeopleSearch,Phone,0
+S25,FastPeopleSearch,Email,0
+S25,FastPeopleSearch,Relatives,0
+S25,FastPeopleSearch,Associates,1
+S25,FastPeopleSearch,Court/public records,0
+S25,BeenVerified,Current address,1
+S25,BeenVerified,Past addresses,1
+S25,BeenVerified,Phone,1
+S25,BeenVerified,Email,1
+S25,BeenVerified,Relatives,1
+S25,BeenVerified,Associates,1
+S25,BeenVerified,Court/public records,1
+S25,Intelius,Current address,1
+S25,Intelius,Past addresses,1
+S25,Intelius,Phone,1
+S25,Intelius,Email,1
+S25,Intelius,Relatives,1
+S25,Intelius,Associates,1
+S25,Intelius,Court/public records,1
+S26,Spokeo,Current address,2
+S26,Spokeo,Past addresses,1
+S26,Spokeo,Phone,2
+S26,Spokeo,Email,2
+S26,Spokeo,Relatives,2
+S26,Spokeo,Associates,2
+S26,Spokeo,Court/public records,2
+S26,Whitepages,Current address,2
+S26,Whitepages,Past addresses,1
+S26,Whitepages,Phone,2
+S26,Whitepages,Email,0
+S26,Whitepages,Relatives,2
+S26,Whitepages,Associates,2
+S26,Whitepages,Court/public records,0
+S26,TruePeopleSearch,Current address,2
+S26,TruePeopleSearch,Past addresses,1
+S26,TruePeopleSearch,Phone,2
+S26,TruePeopleSearch,Email,2
+S26,TruePeopleSearch,Relatives,1
+S26,TruePeopleSearch,Associates,1
+S26,TruePeopleSearch,Court/public records,0
+S26,FastPeopleSearch,Current address,2
+S26,FastPeopleSearch,Past addresses,1
+S26,FastPeopleSearch,Phone,2
+S26,FastPeopleSearch,Email,2
+S26,FastPeopleSearch,Relatives,2
+S26,FastPeopleSearch,Associates,2
+S26,FastPeopleSearch,Court/public records,0
+S26,BeenVerified,Current address,1
+S26,BeenVerified,Past addresses,1
+S26,BeenVerified,Phone,1
+S26,BeenVerified,Email,1
+S26,BeenVerified,Relatives,1
+S26,BeenVerified,Associates,1
+S26,BeenVerified,Court/public records,1
+S26,Intelius,Current address,0
+S26,Intelius,Past addresses,0
+S26,Intelius,Phone,0
+S26,Intelius,Email,0
+S26,Intelius,Relatives,0
+S26,Intelius,Associates,0
+S26,Intelius,Court/public records,0
+S27,Spokeo,Current address,0
+S27,Spokeo,Past addresses,0
+S27,Spokeo,Phone,0
+S27,Spokeo,Email,0
+S27,Spokeo,Relatives,0
+S27,Spokeo,Associates,0
+S27,Spokeo,Court/public records,2
+S27,Whitepages,Current address,0
+S27,Whitepages,Past addresses,0
+S27,Whitepages,Phone,0
+S27,Whitepages,Email,0
+S27,Whitepages,Relatives,0
+S27,Whitepages,Associates,0
+S27,Whitepages,Court/public records,0
+S27,TruePeopleSearch,Current address,0
+S27,TruePeopleSearch,Past addresses,0
+S27,TruePeopleSearch,Phone,1
+S27,TruePeopleSearch,Email,1
+S27,TruePeopleSearch,Relatives,0
+S27,TruePeopleSearch,Associates,1
+S27,TruePeopleSearch,Court/public records,1
+S27,FastPeopleSearch,Current address,0
+S27,FastPeopleSearch,Past addresses,0
+S27,FastPeopleSearch,Phone,0
+S27,FastPeopleSearch,Email,0
+S27,FastPeopleSearch,Relatives,0
+S27,FastPeopleSearch,Associates,0
+S27,FastPeopleSearch,Court/public records,0
+S27,BeenVerified,Current address,1
+S27,BeenVerified,Past addresses,1
+S27,BeenVerified,Phone,1
+S27,BeenVerified,Email,1
+S27,BeenVerified,Relatives,1
+S27,BeenVerified,Associates,1
+S27,BeenVerified,Court/public records,1
+S27,Intelius,Current address,1
+S27,Intelius,Past addresses,1
+S27,Intelius,Phone,1
+S27,Intelius,Email,1
+S27,Intelius,Relatives,1
+S27,Intelius,Associates,1
+S27,Intelius,Court/public records,1
+S28,Spokeo,Current address,2
+S28,Spokeo,Past addresses,0
+S28,Spokeo,Phone,0
+S28,Spokeo,Email,1
+S28,Spokeo,Relatives,2
+S28,Spokeo,Associates,2
+S28,Spokeo,Court/public records,0
+S28,Whitepages,Current address,2
+S28,Whitepages,Past addresses,1
+S28,Whitepages,Phone,0
+S28,Whitepages,Email,0
+S28,Whitepages,Relatives,2
+S28,Whitepages,Associates,2
+S28,Whitepages,Court/public records,0
+S28,TruePeopleSearch,Current address,2
+S28,TruePeopleSearch,Past addresses,1
+S28,TruePeopleSearch,Phone,0
+S28,TruePeopleSearch,Email,0
+S28,TruePeopleSearch,Relatives,2
+S28,TruePeopleSearch,Associates,0
+S28,TruePeopleSearch,Court/public records,0
+S28,FastPeopleSearch,Current address,2
+S28,FastPeopleSearch,Past addresses,1
+S28,FastPeopleSearch,Phone,0
+S28,FastPeopleSearch,Email,0
+S28,FastPeopleSearch,Relatives,2
+S28,FastPeopleSearch,Associates,2
+S28,FastPeopleSearch,Court/public records,1
+S28,BeenVerified,Current address,1
+S28,BeenVerified,Past addresses,1
+S28,BeenVerified,Phone,1
+S28,BeenVerified,Email,1
+S28,BeenVerified,Relatives,1
+S28,BeenVerified,Associates,1
+S28,BeenVerified,Court/public records,1
+S28,Intelius,Current address,1
+S28,Intelius,Past addresses,1
+S28,Intelius,Phone,1
+S28,Intelius,Email,1
+S28,Intelius,Relatives,1
+S28,Intelius,Associates,1
+S28,Intelius,Court/public records,1
+S29,Spokeo,Current address,2
+S29,Spokeo,Past addresses,2
+S29,Spokeo,Phone,2
+S29,Spokeo,Email,2
+S29,Spokeo,Relatives,2
+S29,Spokeo,Associates,2
+S29,Spokeo,Court/public records,1
+S29,Whitepages,Current address,2
+S29,Whitepages,Past addresses,2
+S29,Whitepages,Phone,2
+S29,Whitepages,Email,0
+S29,Whitepages,Relatives,2
+S29,Whitepages,Associates,2
+S29,Whitepages,Court/public records,1
+S29,TruePeopleSearch,Current address,2
+S29,TruePeopleSearch,Past addresses,2
+S29,TruePeopleSearch,Phone,2
+S29,TruePeopleSearch,Email,2
+S29,TruePeopleSearch,Relatives,2
+S29,TruePeopleSearch,Associates,2
+S29,TruePeopleSearch,Court/public records,0
+S29,FastPeopleSearch,Current address,0
+S29,FastPeopleSearch,Past addresses,0
+S29,FastPeopleSearch,Phone,0
+S29,FastPeopleSearch,Email,0
+S29,FastPeopleSearch,Relatives,0
+S29,FastPeopleSearch,Associates,0
+S29,FastPeopleSearch,Court/public records,0
+S29,BeenVerified,Current address,0
+S29,BeenVerified,Past addresses,0
+S29,BeenVerified,Phone,0
+S29,BeenVerified,Email,0
+S29,BeenVerified,Relatives,0
+S29,BeenVerified,Associates,0
+S29,BeenVerified,Court/public records,0
+S29,Intelius,Current address,0
+S29,Intelius,Past addresses,0
+S29,Intelius,Phone,0
+S29,Intelius,Email,0
+S29,Intelius,Relatives,0
+S29,Intelius,Associates,0
+S29,Intelius,Court/public records,0
+S30,Spokeo,Current address,2
+S30,Spokeo,Past addresses,2
+S30,Spokeo,Phone,2
+S30,Spokeo,Email,2
+S30,Spokeo,Relatives,2
+S30,Spokeo,Associates,1
+S30,Spokeo,Court/public records,0
+S30,Whitepages,Current address,0
+S30,Whitepages,Past addresses,0
+S30,Whitepages,Phone,0
+S30,Whitepages,Email,0
+S30,Whitepages,Relatives,0
+S30,Whitepages,Associates,0
+S30,Whitepages,Court/public records,0
+S30,TruePeopleSearch,Current address,2
+S30,TruePeopleSearch,Past addresses,0
+S30,TruePeopleSearch,Phone,0
+S30,TruePeopleSearch,Email,2
+S30,TruePeopleSearch,Relatives,2
+S30,TruePeopleSearch,Associates,2
+S30,TruePeopleSearch,Court/public records,0
+S30,FastPeopleSearch,Current address,2
+S30,FastPeopleSearch,Past addresses,2
+S30,FastPeopleSearch,Phone,0
+S30,FastPeopleSearch,Email,2
+S30,FastPeopleSearch,Relatives,2
+S30,FastPeopleSearch,Associates,2
+S30,FastPeopleSearch,Court/public records,0
+S30,BeenVerified,Current address,1
+S30,BeenVerified,Past addresses,1
+S30,BeenVerified,Phone,1
+S30,BeenVerified,Email,1
+S30,BeenVerified,Relatives,1
+S30,BeenVerified,Associates,1
+S30,BeenVerified,Court/public records,1
+S30,Intelius,Current address,1
+S30,Intelius,Past addresses,1
+S30,Intelius,Phone,1
+S30,Intelius,Email,1
+S30,Intelius,Relatives,1
+S30,Intelius,Associates,1
+S30,Intelius,Court/public records,1
+S31,Spokeo,Current address,0
+S31,Spokeo,Past addresses,0
+S31,Spokeo,Phone,0
+S31,Spokeo,Email,0
+S31,Spokeo,Relatives,0
+S31,Spokeo,Associates,0
+S31,Spokeo,Court/public records,0
+S31,Whitepages,Current address,2
+S31,Whitepages,Past addresses,2
+S31,Whitepages,Phone,2
+S31,Whitepages,Email,0
+S31,Whitepages,Relatives,2
+S31,Whitepages,Associates,2
+S31,Whitepages,Court/public records,0
+S31,TruePeopleSearch,Current address,2
+S31,TruePeopleSearch,Past addresses,2
+S31,TruePeopleSearch,Phone,2
+S31,TruePeopleSearch,Email,2
+S31,TruePeopleSearch,Relatives,1
+S31,TruePeopleSearch,Associates,2
+S31,TruePeopleSearch,Court/public records,0
+S31,FastPeopleSearch,Current address,2
+S31,FastPeopleSearch,Past addresses,2
+S31,FastPeopleSearch,Phone,0
+S31,FastPeopleSearch,Email,0
+S31,FastPeopleSearch,Relatives,0
+S31,FastPeopleSearch,Associates,2
+S31,FastPeopleSearch,Court/public records,1
+S31,BeenVerified,Current address,0
+S31,BeenVerified,Past addresses,0
+S31,BeenVerified,Phone,0
+S31,BeenVerified,Email,0
+S31,BeenVerified,Relatives,0
+S31,BeenVerified,Associates,0
+S31,BeenVerified,Court/public records,0
+S31,Intelius,Current address,1
+S31,Intelius,Past addresses,1
+S31,Intelius,Phone,1
+S31,Intelius,Email,1
+S31,Intelius,Relatives,1
+S31,Intelius,Associates,1
+S31,Intelius,Court/public records,1
+S32,Spokeo,Current address,1
+S32,Spokeo,Past addresses,0
+S32,Spokeo,Phone,1
+S32,Spokeo,Email,0
+S32,Spokeo,Relatives,1
+S32,Spokeo,Associates,0
+S32,Spokeo,Court/public records,2
+S32,Whitepages,Current address,0
+S32,Whitepages,Past addresses,0
+S32,Whitepages,Phone,0
+S32,Whitepages,Email,0
+S32,Whitepages,Relatives,0
+S32,Whitepages,Associates,0
+S32,Whitepages,Court/public records,0
+S32,TruePeopleSearch,Current address,0
+S32,TruePeopleSearch,Past addresses,0
+S32,TruePeopleSearch,Phone,0
+S32,TruePeopleSearch,Email,0
+S32,TruePeopleSearch,Relatives,1
+S32,TruePeopleSearch,Associates,1
+S32,TruePeopleSearch,Court/public records,2
+S32,FastPeopleSearch,Current address,0
+S32,FastPeopleSearch,Past addresses,0
+S32,FastPeopleSearch,Phone,1
+S32,FastPeopleSearch,Email,0
+S32,FastPeopleSearch,Relatives,0
+S32,FastPeopleSearch,Associates,0
+S32,FastPeopleSearch,Court/public records,0
+S32,BeenVerified,Current address,0
+S32,BeenVerified,Past addresses,0
+S32,BeenVerified,Phone,0
+S32,BeenVerified,Email,0
+S32,BeenVerified,Relatives,0
+S32,BeenVerified,Associates,0
+S32,BeenVerified,Court/public records,0
+S32,Intelius,Current address,0
+S32,Intelius,Past addresses,0
+S32,Intelius,Phone,0
+S32,Intelius,Email,0
+S32,Intelius,Relatives,0
+S32,Intelius,Associates,0
+S32,Intelius,Court/public records,0
+S33,Spokeo,Current address,0
+S33,Spokeo,Past addresses,0
+S33,Spokeo,Phone,2
+S33,Spokeo,Email,1
+S33,Spokeo,Relatives,0
+S33,Spokeo,Associates,0
+S33,Spokeo,Court/public records,2
+S33,Whitepages,Current address,0
+S33,Whitepages,Past addresses,0
+S33,Whitepages,Phone,2
+S33,Whitepages,Email,2
+S33,Whitepages,Relatives,0
+S33,Whitepages,Associates,0
+S33,Whitepages,Court/public records,0
+S33,TruePeopleSearch,Current address,0
+S33,TruePeopleSearch,Past addresses,0
+S33,TruePeopleSearch,Phone,0
+S33,TruePeopleSearch,Email,0
+S33,TruePeopleSearch,Relatives,0
+S33,TruePeopleSearch,Associates,0
+S33,TruePeopleSearch,Court/public records,0
+S33,FastPeopleSearch,Current address,0
+S33,FastPeopleSearch,Past addresses,0
+S33,FastPeopleSearch,Phone,2
+S33,FastPeopleSearch,Email,2
+S33,FastPeopleSearch,Relatives,0
+S33,FastPeopleSearch,Associates,1
+S33,FastPeopleSearch,Court/public records,0
+S33,BeenVerified,Current address,0
+S33,BeenVerified,Past addresses,0
+S33,BeenVerified,Phone,0
+S33,BeenVerified,Email,0
+S33,BeenVerified,Relatives,0
+S33,BeenVerified,Associates,0
+S33,BeenVerified,Court/public records,0
+S33,Intelius,Current address,1
+S33,Intelius,Past addresses,1
+S33,Intelius,Phone,1
+S33,Intelius,Email,1
+S33,Intelius,Relatives,1
+S33,Intelius,Associates,1
+S33,Intelius,Court/public records,1
+S34,Spokeo,Current address,0
+S34,Spokeo,Past addresses,0
+S34,Spokeo,Phone,0
+S34,Spokeo,Email,0
+S34,Spokeo,Relatives,0
+S34,Spokeo,Associates,0
+S34,Spokeo,Court/public records,0
+S34,Whitepages,Current address,0
+S34,Whitepages,Past addresses,2
+S34,Whitepages,Phone,1
+S34,Whitepages,Email,0
+S34,Whitepages,Relatives,2
+S34,Whitepages,Associates,2
+S34,Whitepages,Court/public records,2
+S34,TruePeopleSearch,Current address,2
+S34,TruePeopleSearch,Past addresses,2
+S34,TruePeopleSearch,Phone,0
+S34,TruePeopleSearch,Email,1
+S34,TruePeopleSearch,Relatives,0
+S34,TruePeopleSearch,Associates,2
+S34,TruePeopleSearch,Court/public records,0
+S34,FastPeopleSearch,Current address,0
+S34,FastPeopleSearch,Past addresses,0
+S34,FastPeopleSearch,Phone,0
+S34,FastPeopleSearch,Email,0
+S34,FastPeopleSearch,Relatives,0
+S34,FastPeopleSearch,Associates,0
+S34,FastPeopleSearch,Court/public records,0
+S34,BeenVerified,Current address,0
+S34,BeenVerified,Past addresses,0
+S34,BeenVerified,Phone,0
+S34,BeenVerified,Email,0
+S34,BeenVerified,Relatives,0
+S34,BeenVerified,Associates,0
+S34,BeenVerified,Court/public records,0
+S34,Intelius,Current address,0
+S34,Intelius,Past addresses,0
+S34,Intelius,Phone,0
+S34,Intelius,Email,0
+S34,Intelius,Relatives,0
+S34,Intelius,Associates,0
+S34,Intelius,Court/public records,0
+S35,Spokeo,Current address,2
+S35,Spokeo,Past addresses,2
+S35,Spokeo,Phone,2
+S35,Spokeo,Email,2
+S35,Spokeo,Relatives,2
+S35,Spokeo,Associates,2
+S35,Spokeo,Court/public records,1
+S35,Whitepages,Current address,2
+S35,Whitepages,Past addresses,2
+S35,Whitepages,Phone,1
+S35,Whitepages,Email,2
+S35,Whitepages,Relatives,2
+S35,Whitepages,Associates,2
+S35,Whitepages,Court/public records,0
+S35,TruePeopleSearch,Current address,2
+S35,TruePeopleSearch,Past addresses,2
+S35,TruePeopleSearch,Phone,2
+S35,TruePeopleSearch,Email,1
+S35,TruePeopleSearch,Relatives,0
+S35,TruePeopleSearch,Associates,2
+S35,TruePeopleSearch,Court/public records,2
+S35,FastPeopleSearch,Current address,2
+S35,FastPeopleSearch,Past addresses,2
+S35,FastPeopleSearch,Phone,2
+S35,FastPeopleSearch,Email,2
+S35,FastPeopleSearch,Relatives,0
+S35,FastPeopleSearch,Associates,2
+S35,FastPeopleSearch,Court/public records,2
+S35,BeenVerified,Current address,1
+S35,BeenVerified,Past addresses,1
+S35,BeenVerified,Phone,1
+S35,BeenVerified,Email,1
+S35,BeenVerified,Relatives,1
+S35,BeenVerified,Associates,1
+S35,BeenVerified,Court/public records,1
+S35,Intelius,Current address,1
+S35,Intelius,Past addresses,1
+S35,Intelius,Phone,1
+S35,Intelius,Email,1
+S35,Intelius,Relatives,1
+S35,Intelius,Associates,1
+S35,Intelius,Court/public records,1
+S36,Spokeo,Current address,0
+S36,Spokeo,Past addresses,0
+S36,Spokeo,Phone,0
+S36,Spokeo,Email,0
+S36,Spokeo,Relatives,0
+S36,Spokeo,Associates,0
+S36,Spokeo,Court/public records,0
+S36,Whitepages,Current address,0
+S36,Whitepages,Past addresses,0
+S36,Whitepages,Phone,0
+S36,Whitepages,Email,0
+S36,Whitepages,Relatives,0
+S36,Whitepages,Associates,0
+S36,Whitepages,Court/public records,0
+S36,TruePeopleSearch,Current address,0
+S36,TruePeopleSearch,Past addresses,0
+S36,TruePeopleSearch,Phone,0
+S36,TruePeopleSearch,Email,0
+S36,TruePeopleSearch,Relatives,0
+S36,TruePeopleSearch,Associates,0
+S36,TruePeopleSearch,Court/public records,0
+S36,FastPeopleSearch,Current address,2
+S36,FastPeopleSearch,Past addresses,1
+S36,FastPeopleSearch,Phone,2
+S36,FastPeopleSearch,Email,2
+S36,FastPeopleSearch,Relatives,2
+S36,FastPeopleSearch,Associates,2
+S36,FastPeopleSearch,Court/public records,0
+S36,BeenVerified,Current address,0
+S36,BeenVerified,Past addresses,0
+S36,BeenVerified,Phone,0
+S36,BeenVerified,Email,0
+S36,BeenVerified,Relatives,0
+S36,BeenVerified,Associates,0
+S36,BeenVerified,Court/public records,0
+S36,Intelius,Current address,1
+S36,Intelius,Past addresses,1
+S36,Intelius,Phone,1
+S36,Intelius,Email,1
+S36,Intelius,Relatives,1
+S36,Intelius,Associates,1
+S36,Intelius,Court/public records,1
+S37,Spokeo,Current address,0
+S37,Spokeo,Past addresses,0
+S37,Spokeo,Phone,0
+S37,Spokeo,Email,0
+S37,Spokeo,Relatives,0
+S37,Spokeo,Associates,0
+S37,Spokeo,Court/public records,0
+S37,Whitepages,Current address,0
+S37,Whitepages,Past addresses,0
+S37,Whitepages,Phone,0
+S37,Whitepages,Email,0
+S37,Whitepages,Relatives,0
+S37,Whitepages,Associates,0
+S37,Whitepages,Court/public records,0
+S37,TruePeopleSearch,Current address,0
+S37,TruePeopleSearch,Past addresses,0
+S37,TruePeopleSearch,Phone,0
+S37,TruePeopleSearch,Email,0
+S37,TruePeopleSearch,Relatives,0
+S37,TruePeopleSearch,Associates,0
+S37,TruePeopleSearch,Court/public records,0
+S37,FastPeopleSearch,Current address,2
+S37,FastPeopleSearch,Past addresses,1
+S37,FastPeopleSearch,Phone,0
+S37,FastPeopleSearch,Email,0
+S37,FastPeopleSearch,Relatives,2
+S37,FastPeopleSearch,Associates,0
+S37,FastPeopleSearch,Court/public records,1
+S37,BeenVerified,Current address,1
+S37,BeenVerified,Past addresses,1
+S37,BeenVerified,Phone,1
+S37,BeenVerified,Email,1
+S37,BeenVerified,Relatives,1
+S37,BeenVerified,Associates,1
+S37,BeenVerified,Court/public records,1
+S37,Intelius,Current address,1
+S37,Intelius,Past addresses,1
+S37,Intelius,Phone,1
+S37,Intelius,Email,1
+S37,Intelius,Relatives,1
+S37,Intelius,Associates,1
+S37,Intelius,Court/public records,1
+S38,Spokeo,Current address,0
+S38,Spokeo,Past addresses,0
+S38,Spokeo,Phone,0
+S38,Spokeo,Email,0
+S38,Spokeo,Relatives,0
+S38,Spokeo,Associates,0
+S38,Spokeo,Court/public records,0
+S38,Whitepages,Current address,2
+S38,Whitepages,Past addresses,0
+S38,Whitepages,Phone,2
+S38,Whitepages,Email,2
+S38,Whitepages,Relatives,2
+S38,Whitepages,Associates,2
+S38,Whitepages,Court/public records,0
+S38,TruePeopleSearch,Current address,2
+S38,TruePeopleSearch,Past addresses,1
+S38,TruePeopleSearch,Phone,2
+S38,TruePeopleSearch,Email,0
+S38,TruePeopleSearch,Relatives,2
+S38,TruePeopleSearch,Associates,2
+S38,TruePeopleSearch,Court/public records,1
+S38,FastPeopleSearch,Current address,0
+S38,FastPeopleSearch,Past addresses,0
+S38,FastPeopleSearch,Phone,0
+S38,FastPeopleSearch,Email,0
+S38,FastPeopleSearch,Relatives,0
+S38,FastPeopleSearch,Associates,0
+S38,FastPeopleSearch,Court/public records,0
+S38,BeenVerified,Current address,1
+S38,BeenVerified,Past addresses,1
+S38,BeenVerified,Phone,1
+S38,BeenVerified,Email,1
+S38,BeenVerified,Relatives,1
+S38,BeenVerified,Associates,1
+S38,BeenVerified,Court/public records,1
+S38,Intelius,Current address,1
+S38,Intelius,Past addresses,1
+S38,Intelius,Phone,1
+S38,Intelius,Email,1
+S38,Intelius,Relatives,1
+S38,Intelius,Associates,1
+S38,Intelius,Court/public records,1
+S39,Spokeo,Current address,2
+S39,Spokeo,Past addresses,1
+S39,Spokeo,Phone,0
+S39,Spokeo,Email,0
+S39,Spokeo,Relatives,2
+S39,Spokeo,Associates,2
+S39,Spokeo,Court/public records,0
+S39,Whitepages,Current address,2
+S39,Whitepages,Past addresses,1
+S39,Whitepages,Phone,1
+S39,Whitepages,Email,0
+S39,Whitepages,Relatives,0
+S39,Whitepages,Associates,2
+S39,Whitepages,Court/public records,0
+S39,TruePeopleSearch,Current address,0
+S39,TruePeopleSearch,Past addresses,0
+S39,TruePeopleSearch,Phone,0
+S39,TruePeopleSearch,Email,0
+S39,TruePeopleSearch,Relatives,0
+S39,TruePeopleSearch,Associates,0
+S39,TruePeopleSearch,Court/public records,0
+S39,FastPeopleSearch,Current address,2
+S39,FastPeopleSearch,Past addresses,1
+S39,FastPeopleSearch,Phone,1
+S39,FastPeopleSearch,Email,1
+S39,FastPeopleSearch,Relatives,2
+S39,FastPeopleSearch,Associates,2
+S39,FastPeopleSearch,Court/public records,0
+S39,BeenVerified,Current address,1
+S39,BeenVerified,Past addresses,1
+S39,BeenVerified,Phone,1
+S39,BeenVerified,Email,1
+S39,BeenVerified,Relatives,1
+S39,BeenVerified,Associates,1
+S39,BeenVerified,Court/public records,1
+S39,Intelius,Current address,0
+S39,Intelius,Past addresses,0
+S39,Intelius,Phone,0
+S39,Intelius,Email,0
+S39,Intelius,Relatives,0
+S39,Intelius,Associates,0
+S39,Intelius,Court/public records,0
+S40,Spokeo,Current address,2
+S40,Spokeo,Past addresses,2
+S40,Spokeo,Phone,2
+S40,Spokeo,Email,1
+S40,Spokeo,Relatives,2
+S40,Spokeo,Associates,2
+S40,Spokeo,Court/public records,0
+S40,Whitepages,Current address,2
+S40,Whitepages,Past addresses,2
+S40,Whitepages,Phone,2
+S40,Whitepages,Email,2
+S40,Whitepages,Relatives,2
+S40,Whitepages,Associates,0
+S40,Whitepages,Court/public records,0
+S40,TruePeopleSearch,Current address,2
+S40,TruePeopleSearch,Past addresses,2
+S40,TruePeopleSearch,Phone,0
+S40,TruePeopleSearch,Email,2
+S40,TruePeopleSearch,Relatives,2
+S40,TruePeopleSearch,Associates,2
+S40,TruePeopleSearch,Court/public records,0
+S40,FastPeopleSearch,Current address,2
+S40,FastPeopleSearch,Past addresses,2
+S40,FastPeopleSearch,Phone,2
+S40,FastPeopleSearch,Email,1
+S40,FastPeopleSearch,Relatives,2
+S40,FastPeopleSearch,Associates,1
+S40,FastPeopleSearch,Court/public records,0
+S40,BeenVerified,Current address,1
+S40,BeenVerified,Past addresses,1
+S40,BeenVerified,Phone,1
+S40,BeenVerified,Email,1
+S40,BeenVerified,Relatives,1
+S40,BeenVerified,Associates,1
+S40,BeenVerified,Court/public records,1
+S40,Intelius,Current address,1
+S40,Intelius,Past addresses,1
+S40,Intelius,Phone,1
+S40,Intelius,Email,1
+S40,Intelius,Relatives,1
+S40,Intelius,Associates,1
+S40,Intelius,Court/public records,1
+S41,Spokeo,Current address,2
+S41,Spokeo,Past addresses,2
+S41,Spokeo,Phone,2
+S41,Spokeo,Email,2
+S41,Spokeo,Relatives,2
+S41,Spokeo,Associates,2
+S41,Spokeo,Court/public records,0
+S41,Whitepages,Current address,2
+S41,Whitepages,Past addresses,2
+S41,Whitepages,Phone,2
+S41,Whitepages,Email,2
+S41,Whitepages,Relatives,2
+S41,Whitepages,Associates,2
+S41,Whitepages,Court/public records,0
+S41,TruePeopleSearch,Current address,0
+S41,TruePeopleSearch,Past addresses,0
+S41,TruePeopleSearch,Phone,0
+S41,TruePeopleSearch,Email,0
+S41,TruePeopleSearch,Relatives,0
+S41,TruePeopleSearch,Associates,0
+S41,TruePeopleSearch,Court/public records,0
+S41,FastPeopleSearch,Current address,2
+S41,FastPeopleSearch,Past addresses,1
+S41,FastPeopleSearch,Phone,0
+S41,FastPeopleSearch,Email,2
+S41,FastPeopleSearch,Relatives,2
+S41,FastPeopleSearch,Associates,2
+S41,FastPeopleSearch,Court/public records,2
+S41,BeenVerified,Current address,1
+S41,BeenVerified,Past addresses,1
+S41,BeenVerified,Phone,1
+S41,BeenVerified,Email,1
+S41,BeenVerified,Relatives,1
+S41,BeenVerified,Associates,1
+S41,BeenVerified,Court/public records,1
+S41,Intelius,Current address,1
+S41,Intelius,Past addresses,1
+S41,Intelius,Phone,1
+S41,Intelius,Email,1
+S41,Intelius,Relatives,1
+S41,Intelius,Associates,1
+S41,Intelius,Court/public records,1
+S42,Spokeo,Current address,2
+S42,Spokeo,Past addresses,2
+S42,Spokeo,Phone,2
+S42,Spokeo,Email,0
+S42,Spokeo,Relatives,2
+S42,Spokeo,Associates,2
+S42,Spokeo,Court/public records,0
+S42,Whitepages,Current address,0
+S42,Whitepages,Past addresses,0
+S42,Whitepages,Phone,0
+S42,Whitepages,Email,0
+S42,Whitepages,Relatives,0
+S42,Whitepages,Associates,0
+S42,Whitepages,Court/public records,0
+S42,TruePeopleSearch,Current address,0
+S42,TruePeopleSearch,Past addresses,0
+S42,TruePeopleSearch,Phone,0
+S42,TruePeopleSearch,Email,0
+S42,TruePeopleSearch,Relatives,0
+S42,TruePeopleSearch,Associates,0
+S42,TruePeopleSearch,Court/public records,0
+S42,FastPeopleSearch,Current address,2
+S42,FastPeopleSearch,Past addresses,2
+S42,FastPeopleSearch,Phone,2
+S42,FastPeopleSearch,Email,2
+S42,FastPeopleSearch,Relatives,2
+S42,FastPeopleSearch,Associates,2
+S42,FastPeopleSearch,Court/public records,2
+S42,BeenVerified,Current address,1
+S42,BeenVerified,Past addresses,1
+S42,BeenVerified,Phone,1
+S42,BeenVerified,Email,1
+S42,BeenVerified,Relatives,1
+S42,BeenVerified,Associates,1
+S42,BeenVerified,Court/public records,1
+S42,Intelius,Current address,1
+S42,Intelius,Past addresses,1
+S42,Intelius,Phone,1
+S42,Intelius,Email,1
+S42,Intelius,Relatives,1
+S42,Intelius,Associates,1
+S42,Intelius,Court/public records,1
+S43,Spokeo,Current address,2
+S43,Spokeo,Past addresses,1
+S43,Spokeo,Phone,0
+S43,Spokeo,Email,0
+S43,Spokeo,Relatives,2
+S43,Spokeo,Associates,2
+S43,Spokeo,Court/public records,0
+S43,Whitepages,Current address,0
+S43,Whitepages,Past addresses,0
+S43,Whitepages,Phone,0
+S43,Whitepages,Email,0
+S43,Whitepages,Relatives,0
+S43,Whitepages,Associates,0
+S43,Whitepages,Court/public records,0
+S43,TruePeopleSearch,Current address,1
+S43,TruePeopleSearch,Past addresses,1
+S43,TruePeopleSearch,Phone,0
+S43,TruePeopleSearch,Email,0
+S43,TruePeopleSearch,Relatives,2
+S43,TruePeopleSearch,Associates,2
+S43,TruePeopleSearch,Court/public records,1
+S43,FastPeopleSearch,Current address,2
+S43,FastPeopleSearch,Past addresses,0
+S43,FastPeopleSearch,Phone,0
+S43,FastPeopleSearch,Email,0
+S43,FastPeopleSearch,Relatives,2
+S43,FastPeopleSearch,Associates,2
+S43,FastPeopleSearch,Court/public records,0
+S43,BeenVerified,Current address,1
+S43,BeenVerified,Past addresses,1
+S43,BeenVerified,Phone,1
+S43,BeenVerified,Email,1
+S43,BeenVerified,Relatives,1
+S43,BeenVerified,Associates,1
+S43,BeenVerified,Court/public records,1
+S43,Intelius,Current address,1
+S43,Intelius,Past addresses,1
+S43,Intelius,Phone,1
+S43,Intelius,Email,1
+S43,Intelius,Relatives,1
+S43,Intelius,Associates,1
+S43,Intelius,Court/public records,1
+S44,Spokeo,Current address,2
+S44,Spokeo,Past addresses,2
+S44,Spokeo,Phone,2
+S44,Spokeo,Email,2
+S44,Spokeo,Relatives,2
+S44,Spokeo,Associates,1
+S44,Spokeo,Court/public records,0
+S44,Whitepages,Current address,0
+S44,Whitepages,Past addresses,0
+S44,Whitepages,Phone,0
+S44,Whitepages,Email,0
+S44,Whitepages,Relatives,0
+S44,Whitepages,Associates,0
+S44,Whitepages,Court/public records,0
+S44,TruePeopleSearch,Current address,2
+S44,TruePeopleSearch,Past addresses,2
+S44,TruePeopleSearch,Phone,2
+S44,TruePeopleSearch,Email,1
+S44,TruePeopleSearch,Relatives,2
+S44,TruePeopleSearch,Associates,0
+S44,TruePeopleSearch,Court/public records,0
+S44,FastPeopleSearch,Current address,2
+S44,FastPeopleSearch,Past addresses,2
+S44,FastPeopleSearch,Phone,0
+S44,FastPeopleSearch,Email,2
+S44,FastPeopleSearch,Relatives,2
+S44,FastPeopleSearch,Associates,2
+S44,FastPeopleSearch,Court/public records,2
+S44,BeenVerified,Current address,1
+S44,BeenVerified,Past addresses,1
+S44,BeenVerified,Phone,1
+S44,BeenVerified,Email,1
+S44,BeenVerified,Relatives,1
+S44,BeenVerified,Associates,1
+S44,BeenVerified,Court/public records,1
+S44,Intelius,Current address,1
+S44,Intelius,Past addresses,1
+S44,Intelius,Phone,1
+S44,Intelius,Email,1
+S44,Intelius,Relatives,1
+S44,Intelius,Associates,1
+S44,Intelius,Court/public records,1
+S45,Spokeo,Current address,1
+S45,Spokeo,Past addresses,2
+S45,Spokeo,Phone,0
+S45,Spokeo,Email,0
+S45,Spokeo,Relatives,2
+S45,Spokeo,Associates,2
+S45,Spokeo,Court/public records,0
+S45,Whitepages,Current address,2
+S45,Whitepages,Past addresses,2
+S45,Whitepages,Phone,0
+S45,Whitepages,Email,0
+S45,Whitepages,Relatives,2
+S45,Whitepages,Associates,2
+S45,Whitepages,Court/public records,2
+S45,TruePeopleSearch,Current address,0
+S45,TruePeopleSearch,Past addresses,0
+S45,TruePeopleSearch,Phone,0
+S45,TruePeopleSearch,Email,0
+S45,TruePeopleSearch,Relatives,0
+S45,TruePeopleSearch,Associates,0
+S45,TruePeopleSearch,Court/public records,0
+S45,FastPeopleSearch,Current address,0
+S45,FastPeopleSearch,Past addresses,2
+S45,FastPeopleSearch,Phone,0
+S45,FastPeopleSearch,Email,0
+S45,FastPeopleSearch,Relatives,2
+S45,FastPeopleSearch,Associates,2
+S45,FastPeopleSearch,Court/public records,1
+S45,BeenVerified,Current address,1
+S45,BeenVerified,Past addresses,1
+S45,BeenVerified,Phone,1
+S45,BeenVerified,Email,1
+S45,BeenVerified,Relatives,1
+S45,BeenVerified,Associates,1
+S45,BeenVerified,Court/public records,1
+S45,Intelius,Current address,1
+S45,Intelius,Past addresses,1
+S45,Intelius,Phone,1
+S45,Intelius,Email,1
+S45,Intelius,Relatives,1
+S45,Intelius,Associates,1
+S45,Intelius,Court/public records,1
+S46,Spokeo,Current address,2
+S46,Spokeo,Past addresses,2
+S46,Spokeo,Phone,0
+S46,Spokeo,Email,1
+S46,Spokeo,Relatives,0
+S46,Spokeo,Associates,2
+S46,Spokeo,Court/public records,0
+S46,Whitepages,Current address,2
+S46,Whitepages,Past addresses,0
+S46,Whitepages,Phone,1
+S46,Whitepages,Email,0
+S46,Whitepages,Relatives,2
+S46,Whitepages,Associates,2
+S46,Whitepages,Court/public records,0
+S46,TruePeopleSearch,Current address,0
+S46,TruePeopleSearch,Past addresses,2
+S46,TruePeopleSearch,Phone,0
+S46,TruePeopleSearch,Email,1
+S46,TruePeopleSearch,Relatives,2
+S46,TruePeopleSearch,Associates,0
+S46,TruePeopleSearch,Court/public records,0
+S46,FastPeopleSearch,Current address,1
+S46,FastPeopleSearch,Past addresses,2
+S46,FastPeopleSearch,Phone,0
+S46,FastPeopleSearch,Email,0
+S46,FastPeopleSearch,Relatives,2
+S46,FastPeopleSearch,Associates,2
+S46,FastPeopleSearch,Court/public records,0
+S46,BeenVerified,Current address,0
+S46,BeenVerified,Past addresses,0
+S46,BeenVerified,Phone,0
+S46,BeenVerified,Email,0
+S46,BeenVerified,Relatives,0
+S46,BeenVerified,Associates,0
+S46,BeenVerified,Court/public records,0
+S46,Intelius,Current address,1
+S46,Intelius,Past addresses,1
+S46,Intelius,Phone,1
+S46,Intelius,Email,1
+S46,Intelius,Relatives,1
+S46,Intelius,Associates,1
+S46,Intelius,Court/public records,1
+S47,Spokeo,Current address,0
+S47,Spokeo,Past addresses,0
+S47,Spokeo,Phone,0
+S47,Spokeo,Email,0
+S47,Spokeo,Relatives,0
+S47,Spokeo,Associates,0
+S47,Spokeo,Court/public records,1
+S47,Whitepages,Current address,1
+S47,Whitepages,Past addresses,0
+S47,Whitepages,Phone,1
+S47,Whitepages,Email,0
+S47,Whitepages,Relatives,0
+S47,Whitepages,Associates,0
+S47,Whitepages,Court/public records,0
+S47,TruePeopleSearch,Current address,0
+S47,TruePeopleSearch,Past addresses,0
+S47,TruePeopleSearch,Phone,1
+S47,TruePeopleSearch,Email,0
+S47,TruePeopleSearch,Relatives,1
+S47,TruePeopleSearch,Associates,0
+S47,TruePeopleSearch,Court/public records,0
+S47,FastPeopleSearch,Current address,1
+S47,FastPeopleSearch,Past addresses,0
+S47,FastPeopleSearch,Phone,1
+S47,FastPeopleSearch,Email,1
+S47,FastPeopleSearch,Relatives,0
+S47,FastPeopleSearch,Associates,0
+S47,FastPeopleSearch,Court/public records,0
+S47,BeenVerified,Current address,0
+S47,BeenVerified,Past addresses,0
+S47,BeenVerified,Phone,0
+S47,BeenVerified,Email,0
+S47,BeenVerified,Relatives,0
+S47,BeenVerified,Associates,0
+S47,BeenVerified,Court/public records,0
+S47,Intelius,Current address,1
+S47,Intelius,Past addresses,1
+S47,Intelius,Phone,1
+S47,Intelius,Email,1
+S47,Intelius,Relatives,1
+S47,Intelius,Associates,1
+S47,Intelius,Court/public records,1
+S48,Spokeo,Current address,0
+S48,Spokeo,Past addresses,1
+S48,Spokeo,Phone,2
+S48,Spokeo,Email,2
+S48,Spokeo,Relatives,0
+S48,Spokeo,Associates,1
+S48,Spokeo,Court/public records,0
+S48,Whitepages,Current address,0
+S48,Whitepages,Past addresses,0
+S48,Whitepages,Phone,0
+S48,Whitepages,Email,0
+S48,Whitepages,Relatives,0
+S48,Whitepages,Associates,0
+S48,Whitepages,Court/public records,0
+S48,TruePeopleSearch,Current address,1
+S48,TruePeopleSearch,Past addresses,0
+S48,TruePeopleSearch,Phone,2
+S48,TruePeopleSearch,Email,2
+S48,TruePeopleSearch,Relatives,0
+S48,TruePeopleSearch,Associates,1
+S48,TruePeopleSearch,Court/public records,0
+S48,FastPeopleSearch,Current address,0
+S48,FastPeopleSearch,Past addresses,0
+S48,FastPeopleSearch,Phone,2
+S48,FastPeopleSearch,Email,2
+S48,FastPeopleSearch,Relatives,0
+S48,FastPeopleSearch,Associates,1
+S48,FastPeopleSearch,Court/public records,0
+S48,BeenVerified,Current address,1
+S48,BeenVerified,Past addresses,1
+S48,BeenVerified,Phone,1
+S48,BeenVerified,Email,1
+S48,BeenVerified,Relatives,1
+S48,BeenVerified,Associates,1
+S48,BeenVerified,Court/public records,1
+S48,Intelius,Current address,1
+S48,Intelius,Past addresses,1
+S48,Intelius,Phone,1
+S48,Intelius,Email,1
+S48,Intelius,Relatives,1
+S48,Intelius,Associates,1
+S48,Intelius,Court/public records,1
+S49,Spokeo,Current address,0
+S49,Spokeo,Past addresses,0
+S49,Spokeo,Phone,0
+S49,Spokeo,Email,0
+S49,Spokeo,Relatives,0
+S49,Spokeo,Associates,0
+S49,Spokeo,Court/public records,0
+S49,Whitepages,Current address,2
+S49,Whitepages,Past addresses,2
+S49,Whitepages,Phone,0
+S49,Whitepages,Email,0
+S49,Whitepages,Relatives,2
+S49,Whitepages,Associates,2
+S49,Whitepages,Court/public records,2
+S49,TruePeopleSearch,Current address,2
+S49,TruePeopleSearch,Past addresses,2
+S49,TruePeopleSearch,Phone,0
+S49,TruePeopleSearch,Email,0
+S49,TruePeopleSearch,Relatives,1
+S49,TruePeopleSearch,Associates,0
+S49,TruePeopleSearch,Court/public records,0
+S49,FastPeopleSearch,Current address,0
+S49,FastPeopleSearch,Past addresses,0
+S49,FastPeopleSearch,Phone,0
+S49,FastPeopleSearch,Email,0
+S49,FastPeopleSearch,Relatives,0
+S49,FastPeopleSearch,Associates,0
+S49,FastPeopleSearch,Court/public records,0
+S49,BeenVerified,Current address,0
+S49,BeenVerified,Past addresses,0
+S49,BeenVerified,Phone,0
+S49,BeenVerified,Email,0
+S49,BeenVerified,Relatives,0
+S49,BeenVerified,Associates,0
+S49,BeenVerified,Court/public records,0
+S49,Intelius,Current address,1
+S49,Intelius,Past addresses,1
+S49,Intelius,Phone,1
+S49,Intelius,Email,1
+S49,Intelius,Relatives,1
+S49,Intelius,Associates,1
+S49,Intelius,Court/public records,1
+S50,Spokeo,Current address,2
+S50,Spokeo,Past addresses,2
+S50,Spokeo,Phone,0
+S50,Spokeo,Email,1
+S50,Spokeo,Relatives,2
+S50,Spokeo,Associates,2
+S50,Spokeo,Court/public records,0
+S50,Whitepages,Current address,2
+S50,Whitepages,Past addresses,2
+S50,Whitepages,Phone,1
+S50,Whitepages,Email,1
+S50,Whitepages,Relatives,2
+S50,Whitepages,Associates,2
+S50,Whitepages,Court/public records,0
+S50,TruePeopleSearch,Current address,2
+S50,TruePeopleSearch,Past addresses,2
+S50,TruePeopleSearch,Phone,1
+S50,TruePeopleSearch,Email,1
+S50,TruePeopleSearch,Relatives,2
+S50,TruePeopleSearch,Associates,2
+S50,TruePeopleSearch,Court/public records,0
+S50,FastPeopleSearch,Current address,0
+S50,FastPeopleSearch,Past addresses,0
+S50,FastPeopleSearch,Phone,0
+S50,FastPeopleSearch,Email,0
+S50,FastPeopleSearch,Relatives,0
+S50,FastPeopleSearch,Associates,0
+S50,FastPeopleSearch,Court/public records,0
+S50,BeenVerified,Current address,0
+S50,BeenVerified,Past addresses,0
+S50,BeenVerified,Phone,0
+S50,BeenVerified,Email,0
+S50,BeenVerified,Relatives,0
+S50,BeenVerified,Associates,0
+S50,BeenVerified,Court/public records,0
+S50,Intelius,Current address,0
+S50,Intelius,Past addresses,0
+S50,Intelius,Phone,0
+S50,Intelius,Email,0
+S50,Intelius,Relatives,0
+S50,Intelius,Associates,0
+S50,Intelius,Court/public records,0
